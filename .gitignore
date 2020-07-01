@@ -1,0 +1,13 @@
+data/
+migrations/
+venv/
+.idea/
+config.py
+*.bak
+*/*.bak
+*/*.epub
+**/*.epub
+*/*.html
+*.ini
+**/*.png
+**/*.pyc

@@ -1,4 +1,5 @@
-import os
+#!/usr/bin/env python3
+import glob, os
 '''
 Google search: average words in a book
 
@@ -11,24 +12,27 @@ A 100-page book would be, then, about 25,000 words; a 150-page book would be rou
 Word Count: How Many Words Should Your Book Be? — Jodi ...
 www.jodibrandoneditorial.com › blog › word-count-how...
 
-'''
-
-def process():
-  for abspath, folders, files in os.walk('.'):
     if abspath.find('.git') > -1:
       continue
     print (abspath)
     for filename in files:
       file_abspath = os.path.join(abspath, filename)
-      try:
-        fp = open(file_abspath, 'r', encoding='utf8')
-        text = fp.read()
-      except UnicodeDecodeError:
-        continue
-      words = text.split(' ')
-      n_words = len(words)
-      print (n_words, 'words in filename', filename)
 
+'''
+
+def process():
+  mds = glob.glob('0*.md'); total_words = 0
+  for md in mds: # abspath, folders, files in os.walk('.'):
+    try:
+      fp = open(md, 'r', encoding='utf8')
+      text = fp.read()
+    except UnicodeDecodeError:
+      continue
+    words = text.split(' ')
+    n_words = len(words)
+    total_words += n_words
+    print (n_words, 'words in filename', md)
+  print('total_words', total_words)
 
 if __name__ == "__main__":
   process()

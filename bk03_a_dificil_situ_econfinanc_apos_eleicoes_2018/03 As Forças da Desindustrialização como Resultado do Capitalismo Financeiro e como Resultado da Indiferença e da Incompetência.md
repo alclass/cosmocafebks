@@ -1,5 +1,5 @@
-3 As Forças da Desindustrialização como Resultado do Capitalismo Financeiro e como Resultado da Indiferença e da Incompetência
-
+# Capítulo 3
+## As Forças da Desindustrialização como Resultado do Capitalismo Financeiro e como Resultado da Indiferença e da Incompetência
 
 O tema da desindustrialização possui mais de uma dimensão, mais de um contexto, mais de uma interpretação. Aqui, nós traremos duas possíveis. Uma diz respeito à própria viabilidade da industrialização, que demanda não só um mercado consumidor, mas também o potencial industrializador no que tange ao conhecimento, ao capital, à legislação e os interesses relativos das várias partes envolvidas: capitalistas, técnicos, governo etc. Cabe lembrar, ademais, que nos dias de hoje o Meio Ambiente é uma preocupação importante para o industrial e a sociedade. A segunda dimensão à qual queremos fazer menção é o balanço entre o investimento e o retorno do investimento sob contextos de um mundo financeirizado, ou seja, em palavras, pergunta-se, vale a pena investir em um negócio de risco e complicado se o mercado financeiro nos remunera a maior pelo capital lá colocado?
 

@@ -1,4 +1,5 @@
-6 A Fuga de Abraham Weintraub como um dos Expoentes de uma das Conspirações Econômico-Esquizofrênicas da Extrema Direita
+# Capítulo 6
+## A Fuga de Abraham Weintraub como um dos Expoentes de uma das Conspirações Econômico-Esquizofrênicas da Extrema Direita
 
 A história de Abraham Weintraub ficou bastante conhecida após sua misteriosa fuga do país. Abraham Weintraub é um exemplo de tudo aquilo que nós, progressistas e conservadores honestos, não queremos que seja exemplo para as crianças em formação, que serão os adultos atuantes do pôr vir.  Weintraub colheu o que plantou, mas, estranhamente, ele é um sucesso entre os bolsonaristas, ao menos, os do tipo "gado".
 

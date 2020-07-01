@@ -1,0 +1,12 @@
+---
+title:
+- type: main
+  text: As Altas Consequências do Resultado das Eleições de 2018
+creator:
+- role: author
+  text: Luiz Ferreira Lewis
+description: Como o país rapidamente foi arruinado com o governo Bolsonaro
+language: pt-BR
+stylesheet: epub.css
+cover-image: cover-example.jpg
+...
