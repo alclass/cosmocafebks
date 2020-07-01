@@ -1,0 +1,22 @@
+# Chapter 8
+## A Promessa Otimista das Energias Renováveis e o Mito de Crescer com o Dinheiro dos Outros
+
+Durante minha vida, como estudante, como professor, nas outras profissões que ocupei, como, por exemplo, analista de sistemas (hoje, caminho para uma jornada relativa a minha formação jurídica), sempre tive um grande apreço pelas questões ambientais. Eu era, em certa medida, um sonhador. Sonhava com um mundo sem petróleo combustível, em que veículos não emitiam nem gases de efeito estufa, nem os particulados de fuligem nas ruas, nas estradas, em qualquer lugar onde houvesse um motor à explosão. Na década de 1990, houve uma promessa nos EUA na qual a Califórnia teria carros elétricos até o final do século XX e, em troca, o que tivemos foi o filme documentário intitulado: "Quem Matou o Carro Elétrico?"
+
+No momento em que escrevo, meados de 2020, notícias chegam que a Tesla ultrapassou o Exxon em valor de mercado, ou seja, o valor somado das ações em bolsa de valores. Isto traz uma nova dimânica para o mercado dos carros elétricos, sabendo que provavelmente os chineses, os coreanos e os japaneses nos darão carros elétricos mais baratos do que possivelmente a Tesla poderá oferecer.
+
+O problema que o Capitalismo nos põe continua, ou seja, continua a existir um pêndulo em que forças da indústria do petróleo atrasam, às vezes para mais, às vezes para menos, a vinda e instauração de uma nova economia dos carros elétricos.  O leitor astucioso já deve estar em vias de me chamar a atenção, porque, de fato, a economia dos carros elétricos -- e até mesmo a de outras opções como, por exemplo, o carro a hidrogênio -- dependerá também de um maciço investimento em produção energética via fontes renováveis, mais notadamente, eólica e solar.  
+
+Este ponto do livro é interessante também por uma segunda razão. A pandemia do Coronavírus nos alertou sobre o perigo do obscurantismo alargado e da desvalorização da Ciência, pois esse modo estúpido de ser fez com que vários governos reacionários e obscurantistas, dos quais pertence o governo bolsonarista, dissessem que a COVID-19 era simplesmente uma gripezinha ou, em outra direção sob formato de teoria da conspiração, era proveniente de vírus sintetizado em laboratório para os comunistas chineses dominarem o mundo. Este alerta tem sido bom no que se refere a sua remissão ao problema do Aquecimento Global e das emissões de GEE's (Gases de Efeito Estufa).
+
+Este é um dos problemas mais caros em meu entendimento como cidadão planetário que tem que ter o dever para com as gerações futuras. Neste ponto, não obstante, não começarei com o desgoverno Bolsonaro, começarei com o governo Lula. Espero que o leitor entenda que aqui não será feita uma crítica ou acusação à pessoa do ex-presidente Lula, o que será buscado é mostrar que houve uma oportunidade perdida em nome de algo que trazia uma esperança que parecia grande, mas, no final, era um risco tanto econômico, quanto ambiental no sentido em que não se buscaria a substituição do petróleo, mas sim aumentar ainda mais sua produção: falamos do pré-sal.
+
+Há até um detalhe pior nessa escolha do pré-sal, mas que nada tem a ver com o pré-sal em si enquanto escolha ambiental, tecnológica e econômica, mas tem a ver com a coincidência de ter havido uma corrida aos cofres da Petrobras para que políticos e empresários corruptos se locupletassem com os maiores montantes financeiros que esse aumento de escala produtiva proporcionava: era a era da Lava Jato que, em algum grau, ajudou que o desgoverno Bolsonaro chegasse ao poder.
+
+Há um ponto muito importante que ocorre bem no início do governo Lula e que também, conforme opino, nos atrasou muito para buscarmos uma posição de vanguarda em prol da defesa do meio ambiente, das iniciativas voltadas às energias renováveis e do fomento de uma economia voltada a essas.
+
+
+=> É lógico que a economia dos carros elétricos não é o ponto central da mitigação das emissões de GEE's, pois a produção da eletricidade para os carros continua um desafio em aberto, ou seja, não adianta muito ter um carro elétrico se a sociedade for fabricar eletricidade em uma termelétrica, neste caso, é até melhor ter carros com motor à explosão de alta eficiência, pois queimar óleo para produzir eletricidade será um pouco mais ineficiente energeticamente, no final das contas, do que queimar a gasolina e o diesel diretamente em motores de alta eficiência.
+
+
+
