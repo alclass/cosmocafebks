@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import glob, os
+import glob, os, pathlib, json
 '''
 Google search: average words in a book
 
@@ -19,20 +19,59 @@ www.jodibrandoneditorial.com › blog › word-count-how...
       file_abspath = os.path.join(abspath, filename)
 
 '''
+import bk03_antibozo_vol1.zwordcounts as wrdcnt
+from pyapp.models.GoalMod import Goal
 
+def run_goal():
+  goal = Goal(wrdcnt.pdict)
+  goal.calc_book_total_per_date()
+  goal.report()
+  print('N_PAGES', goal.N_PAGES)
+
+def starts_with_number(pstr):
+  try:
+    pp = pstr.split(' ')
+    _ = int(pp[0])
+    return True
+  except ValueError:
+    pass
+  return False
+
+from pyapp.models.sa_conn import Session
+import pyapp.models.genmodelsmod as samodels
 def process():
-  mds = glob.glob('0*.md'); total_words = 0
+  session = Session()
+  booksa = session.query(samodels.BookSA).filter(samodels.BookSA.slug.startswith('uma-historia-do-pior')).first()
+  print (booksa)
+  session.close()
+  print (booksa)
+
+  thisdir = pathlib.Path(__file__).parent
+  bookabspath = os.path.join(thisdir, 'bk03_antibozo_vol1')
+  # mds = glob.glob('0*.md'); total_words = 0
+  entries = os.listdir(bookabspath)
+  mds = list(filter(lambda x : x.endswith('.md'), entries))
+  mds = list(filter(lambda x : starts_with_number(x), mds))
+  mds = sorted(mds)
+  total_words = 0; chapterwordsdict = {}
+  print(mds)
   for md in mds: # abspath, folders, files in os.walk('.'):
     try:
-      fp = open(md, 'r', encoding='utf8')
+      abspath = os.path.join(bookabspath, md)
+      fp = open(abspath, 'r', encoding='utf8')
       text = fp.read()
     except UnicodeDecodeError:
       continue
     words = text.split(' ')
+    n_of_chapter = int(md.split(' ')[0])
     n_words = len(words)
+    chapterwordsdict[n_of_chapter] = n_words
     total_words += n_words
     print (n_words, 'words in filename', md)
   print('total_words', total_words)
+  # print (chapterwordsdict)
+  jsondict = json.dumps(chapterwordsdict)
+  print (jsondict)
 
 if __name__ == "__main__":
   process()
