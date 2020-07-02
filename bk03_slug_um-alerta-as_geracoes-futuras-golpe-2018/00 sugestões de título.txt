@@ -3,7 +3,15 @@ As Altas Consequências do Resultado das Eleições de 2018: volume 1: Terra Arr
 A Difícil Situação Econômico-Financeira do Brasil após as Eleições de 2018
 A Situação Econômico-Financeira do Brasil após a Entrada de Bolsonaro e Guedes
 
+slug atual:
+	um-alerta-as_geracoes-futuras-golpe-2018
+
+Um Alerta às Gerações Futuras sobre o Golpe de 2018 no Brasil
+
+antes:
+	Uma História do Pior Governo Que o Brasil Já Teve
  (Entrada de Bolsonaro e Guedes)
+	subtítulo: Volume 1: Terra Arrasada
 
 blueprint
 
@@ -20,3 +28,5 @@ blueprint
 6 A Fuga de Abraham Weintraub como um dos Expoentes de uma das Conspirações Econômico-Esquizofrênicas da Extrema Direita
 
 7 A Promessa Otimista das Energias Renováveis e o Mito de Crescer com o Dinheiro dos Outros
+
+
