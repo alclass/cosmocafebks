@@ -14,19 +14,52 @@ antes:
 	subtítulo: Volume 1: Terra Arrasada
 
 blueprint
-
-1 O Brasil Impedido de Entrar no Grupo dos Países Mais Inovadores
+1 O Dever do Homem para com as Gerações Vindouras
+2 O Mistério dos Black Blocks em 2013
+3 O Impeachment contra Dilma Roussef em 2013/2014 foi um Golpe Branco
+4 A Armação e Fraude da Condenação Penal do Triplex contra o ex-Presidente Lula: o Judiciário Face a um Alto Risco
+5 A Anticorrupção Como Manobra Política e um Defeito Político da Classe Média
+6 A Vaza Jato para Nos Ajudar: mas Dando as Provas Daquilo Que Deveria Ter Sido Óbvio
+7 O Histórico de Bolsonaro antes de Ter Decidido Se Candidatar à Presidência
+8 Bolsonaro Desenvolve uma Campanha, Aproveitando seu Histórico Facista, de Altas Mentiras
+  A Mamadeira de Piroca
+9 Bolsonaro, além de Mentiroso, um Traidor
+  A Quedra de Bebiano, Santos Cruz, o Jogo do Morde Assopra, As Manifestações Antidemocráticas, a Não Aceite das Forças Armadas, A Tentativa do Caos, A Tentativa de Milicianizar a Força Nacional e as Armas Estaduais
+10 A Ironia dos Destinos: Moro, Aquele Que Armou contra um ex-Presidente, Agora Contribuirá para a Queda de Bolsonaro
+11 A Reunião Ministerial dos Infernos: a Exposição de uma Caterva, Malta e ORCRIM dentro do Governo Federal
+    do Dia 22 de Abril de 2020
+12 Quando Queiroz é Preso Preventivamente em Junho 2020
+13 Mariele Vive
+   Por mais religiosos que sejamos, ninguém pode afirmar ao certo a existência de uma vida no "além", no pós-morte. Digo isto não para desanimar ninguém, muito menos para ofender a religião de alguém, qualquer que seja ela. Digo isso também porque existe uma lição muito útil na chamada "Revolução Coperniciana Kantiana". Na verdade, o termo não é bem este, o termo mais correto é "Revolução Coperniciana em termos de Teoria do Conhecimento elaborada por Kant.  Mas, como o termo fica relativamente grande, costumei usar a forma mais abreviada: a "Revolução Coperniciana Kantiana".  A parte relativa às duas primeiras palavras, ou seja, "Revolução Coperniciana", todos sabem, refere-se à Teoria Heliocêntrica, que postulava que a Terra giraria em torno do Sol ao invés de o Sol girar em torno da Terra, a Teoria Geocêntrica. Repare que o terraplanismo já era superado até mesmo na teoria Geocêntrica, pois esta deixa em realce a "esfericidade" tanto do Sol quanto da Terra.  É interessante notar que o "Revolução Coperniciana" é interpretado como "um grande feito", uma grande descoberta, mas, de fato, foi apenas trocar um ponto de vista que era ambíguo, não há nada de grande feito nessa inversão, como, por exemplo, há na ciência grandes feitos como a Teoria de Gravitação de Newton, ou, na mesma seara, a Teoria de Gravitação de Einstein como uma aplicação de sua própria Teoria de RElatividade Geral.
+   
+   Assim, o dito sobre o qual algo é uma "Revolução Coperniciana" nos dá a ideia de que este algo é um feito, uma grande descoberta. No caso da "Revolução Coperniciana Kantiana", é porque um detalhe que Kant formula em sua Crítica da Razão Pura transforma em muito nosso entendimento sobre como conhecemos o mundo.  Peço ao leitor e à leitora para aguentar comigo esta parte, pois, além de ser muito interessante, ilustrará o ponto que quero mostrar.  Em breve, faremos a transição para o próximo assunto.
+   
+   A história começa com Kant ficando muito impressionado com o trabalho sobre o entendimento escrito por David Hume. Hume, por sua vez, escreve para criticar o conhecimento que chega a nós por dogmatismos. Hume, para este tipo de conhecimento, é um cético.  Esse cetismo de Hume impressiona Kant que, por sua vez, acredita que pode melhorar o trabalho de Hume. Nessa tentativa é que Kant faz sua "Revolução Coperniciana".
+   
+   Hume teria postulado que todo o conhecimento, tudo que nós podemos aprender e saber, vem dos sentidos. Este conhecimento é chamado de conhecimento empírico. Por exemplo, para Hume, nós não poderíamos conceber as matemáticas se não tívemos antes algum contato empírico com as quantidades, as cifras, os números. Kant criticou essa posição. É possível vermos um exemplo. Imagine que nós consigamos aprender a somar números com pequenas pedrinhas. Poderíamos fazer um mais um, ou dois mais três com pequenos objetos, mas nós sabemos que podemos realizar contas muito mais altas sem, pelo tamanho dos números, ter condições de "contas as pedrinhas". Esse generalização, que Hume também aceitava, era uma capacidade nata da mente. Kant então postulou que havia um conhecimento era "a priori" que, do Latim, significa "anteriormente".  Este anteriormente é o anterior ao experimento empírico.  Contudo, Kant concordou com Hume em que o conhecimento começa com o experimento empírico e não existe sem ele, mas, depois dele, a mente adquiri conhecimentos "a priori", sem necessidade de experimentos empíricos. Existe um quadro sinóptico no qual Kant classifica as quatro faixas de possíveis conhecimentos: o "a priori" sintético, "a priori" analítico, "a posteriori" sintético, e o "a posteriori" analítico.
+   
+   O leitor e a leitora deve considerar que fazemos aqui um simplificação, que ele ou ela deve acessar o livro por Kant para obter mais detalhes. Assim advertido, aqui vem a "Revolução Coperniciana Kantiana":
+   
+   Kant disse que tudo que nós seres humanos podemos conhecer é o "conhecimento como ele se apresenta" e não o "conhecimento como ele é". Mas não só isso, ele foi além, ele disse que nós jamais, embora a capacidade fabulosa de a mente conseguir chegar ao conhecimento "a priori" desconectado da experiência empírica, jamais conseguiríamos saber sobre algo como "ele é".
+   
+   
+14 A Fuga de Abraham Weintraub: o Ministro Que Quase Destruiu o MEC
+15 O Imbróglio Decotelli e Bolsonaro Contando Mais Mentiras sobre a Educação
+16 A Analogia do Entretenimento na Frente e o Assalto nos Fundos
+17 Os Gritinhos de Bolsonaro Nos Quais Dizia: Me Chama de Misógono/Racista/Facista, mas Não Me Chama de Ladrão: Era Mais uma Alta Mentira
+18 Milícia, Igrejas Caça-níqueis e Armas a Rodo para os Reacionários
+19 A Tese dos Brasileiros Como Facistas contra a Tese dos Muitos Enganados
+20 Guedes: a Mentira sem o Menor Pudor
+21 Guedes e as Suspeitas de Fraudes Bilionárias contra Fundos de Pensão
+22 Um País em Frangalhos
+23 O Dever de Não Perder as Esperanças
+24 O Quadruplo Desafio: Sócio-Econômico/Energértico/Ambienta/Cultural
+25 Como Um Princípio de Precaução: um Alerta às Gerações Futuras
 
 2 A Analogia do Bêbado-Palhaço Entretendo os Fregueses enquanto o Assalto Acontece nos Fundos do Bar
-
 3 As Forças da Desindustrialização como Resultado do Capitalismo Financeiro e como Resultado da Indiferença e da Incompetência
-
 4 A Década Perdida e as Décadas a Perder
-
 5 O Capitalismo na Versão de Ente Autômono e o Desafio de Salvar o Meio-Ambiente Brasileiro
-
 6 A Fuga de Abraham Weintraub como um dos Expoentes de uma das Conspirações Econômico-Esquizofrênicas da Extrema Direita
-
+O Brasil Impedido de Entrar no Grupo dos Países Mais Inovadores
 7 A Promessa Otimista das Energias Renováveis e o Mito de Crescer com o Dinheiro dos Outros
-
-
