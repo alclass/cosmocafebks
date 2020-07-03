@@ -33,3 +33,16 @@ Pois bem, "comunistas", na frase proferida por Weintraub, não pode ser qualquer
 Pois bem, perceberam o contrassenso?  Como podem os banqueiros e magnatas serem comunistas se eles são riquíssimos em frente à maioria pobre? Como podem os banqueiros e magnatas serem comunistas se eles proferem ao capitalismo mais forte que pode existir que é o "Capitalismo Financeiro"?  Como podem os banqueiros e magnatas serem comunistas se eles são justamente os mais ricos num mundo de classes sociais em que os mais pobres são, numa analogia volumétrica, a parte submersa do iceberg?
 
 Esta, Conspirações Econômico-Esquizofrênicas da Extrema Direita, é a parte do título do capítulo à qual queremos dar importância.  Essa fala de Weintraub é um puro nada, é um puro vazio, não tem sentido algum, não dá nem para chamar de mentira, pois não é nada.  Não obstante, esse tipo de fala tem um enorme apelo aos bolsolavistas e equiparados, eles acreditam piemente nessa história que não tem nenhuma sustenção lógica. Os banqueiros e magnatas são capitalistas -- não comunistas -- e não só isso, eles são dos mais ferrenhos entre os capitalistas, pois são os financeiristas.  Os financeiristas (termo em contraponto aos industrialistas) são, em geral, pessoas que "querem fazer bons negócios em primeiro lugar". Gerar produção e riqueza socializável, em primeiro lugar, não é o motor chave.  (Nós voltaremos a este tema na parte sobre Meio Ambiente, mais adiante no livro.)
+
+
+Referências:
+
+2) Reinaldo Azevedo. O É da Coisa. 2020-06-19: Trecho 13': Weintraub é ridículo até ao sair, mas será premiado.
+URL: youtu.be/5s5Ho-llvIw
+
+Neste trecho de "O É da Coisa", Azevedo levanta o tom médio de suas análises e, por assim dizer, lava a alma dos brasileiros ao pôr o dedo nas feridas, em sequência, em crescente, em tamanho, em absurdo.
+
+
+
+
+
