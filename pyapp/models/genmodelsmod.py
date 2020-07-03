@@ -15,8 +15,8 @@ class BookSA(Base):
   id = Column(Integer, primary_key=True)
   title = Column(String)
   subtitle = Column(String, nullable=True)
-  slug = Column(String(40))
-  category_id = Column(Integer, ForeignKey('categories.id'), nullable=True)
+  slug = Column(String(40), unique=True)
+  # category_id = Column(Integer, ForeignKey('categories.id'), nullable=True)
   obs = Column(Text, nullable=True)
 
   chapters = relationship('ChapterSA', backref='book', lazy='dynamic')
@@ -30,6 +30,9 @@ class BookSA(Base):
     return '<Book(id=%s, title="%s")>' % (str(self.id), title)
 
 class DatedMeasureSA(Base):
+  '''
+  ALTER TABLE `datedmeasures` ADD UNIQUE `bookid_n_measuredate_uniq`(`measuredate`, `book_id`);
+  '''
 
   __tablename__ = 'datedmeasures'
 
@@ -46,11 +49,15 @@ class DatedMeasureSA(Base):
     return '<DatedMeasure(id=%s, measuredate=%s n_words=%d)>' % (str(self.id), str(self.measuredate), self.n_words)
 
 class ChapterSA(Base):
+  '''
+  ALTER TABLE `chapters` ADD UNIQUE `bookid_n_chaptern_uniq`(`chapter_n`, `book_id`);
+  '''
 
   __tablename__ = 'chapters'
 
   id = Column(Integer, primary_key=True)
   title = Column(String)
+  slug = Column(String(40))
   chapter_n = Column(Integer, default=1)
   is_completed = Column(Boolean, default=False)
   obs = Column(Text, nullable=True)
@@ -58,6 +65,14 @@ class ChapterSA(Base):
 
   created_at = Column(TIMESTAMP, server_default=func.now()) #, nullable=False, server_default=text('0'))
   updated_at = Column(TIMESTAMP, nullable=True)
+
+  @property
+  def filename(self):
+    return '%s_%s.md' % (str(self.chapter_n).zfill(2), self.slug)
+
+  def get_filepath_from_folderpath(self, books_abspath):
+    filepath = os.path.join(books_abspath, self.filename)
+    return filepath
 
   def __repr__(self):
     title = self.title if len(self.title) < 50 else self.title[:50]

@@ -1,3 +1,6 @@
+# Capítulo 8
+## Bolsonaro Desenvolve uma Campanha, Aproveitando seu Histórico Facista, de Altas Mentiras
+
 # Capítulo 2
 ## 02 As Mentiras e Fake News nas Campanhas dos Bolsolavistas e a Enganação de Grande Parte do Eleitorado
 
@@ -23,14 +26,3 @@ Pois bem, o leitor deve ter em mente a seguinte pergunta: mas como isto foi conh
 Muitos analistas políticos consideram que um certo nível de mentira existe em todas as eleições para os cargos no executivo e no legislativo.  Alguns usam a metáforo do "empurrão de ombros", em que uma pessoa tromba ombro a ombro com a outra para retirá-la de seu lugar e ocupar seu espaço.  Esses mesmos analistas, por outro lado, dizem que findadas as eleições, o eleito tem o dever de cessar a mentira, pois a coisa pública, a res publica, deve ser respeitado e o exemplo deve ser dado a todos, vindo de cima.
 
 Tem Bolsonaro sido eleito, a impressão foi a de que ele continuava a mentir como se ainda estivesse em campanha.  Repare, o autor não considera a tese de que se deva mentir em campanha correta, pelo contrário, para este autor isto é uma fraude, pois a mentira enganará os eleitores que votaram enganados. O prejuízo não é para o perdedor das eleições, o prejuízo é para todos, pois os homens não conseguem viver a vida civil do trabalho, da economia, das tarefas de toda a sorte, sob a égide da mentira -- a vida fica insustentável, todos mentirão contra todos e os resultados serão a guerra, no mínimo, e dela, a destruição, a miséria, a morte. Não é possível viver na e da mentira, temos todos que viver do cultivo da verdade, da dignidade, da moral e da honra.
-
-
-
-
-
-
-
-
-
- 
-
