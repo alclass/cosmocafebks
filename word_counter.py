@@ -75,11 +75,16 @@ def updatedb():
     filter(gmodels.DatedMeasureSA.book_id == book.id). \
     first()
   if not measure_on_db:
-    print('Updating', measure)
+    print('Inserting', measure)
     book.measuresondates.append(measure)
     session.commit()
   else:
-    print('Not updating', measure)
+    if measure_on_db.n_words != measure.n_words:
+      measure_on_db.n_words = measure.n_words
+      print('Updating', measure)
+      session.commit()
+    else:
+      print('Not updating (equal n_words)', measure)
   session.close()
 
 if __name__ == "__main__":

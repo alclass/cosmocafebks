@@ -1,4 +1,28 @@
 #!/usr/bin/python3
+'''
+https://stackoverflow.com/questions/10059345/sqlalchemy-unique-across-multiple-columns
+
+# version1: table definition
+mytable = Table('mytable', meta,
+    # ...
+    Column('customer_id', Integer, ForeignKey('customers.customer_id')),
+    Column('location_code', Unicode(10)),
+
+    UniqueConstraint('customer_id', 'location_code', name='uix_1')
+    )
+# or the index, which will ensure uniqueness as well
+Index('myindex', mytable.c.customer_id, mytable.c.location_code, unique=True)
+
+
+# version2: declarative
+class Location(Base):
+    __tablename__ = 'locations'
+    id = Column(Integer, primary_key = True)
+    customer_id = Column(Integer, ForeignKey('customers.customer_id'), nullable=False)
+    location_code = Column(Unicode(10), nullable=False)
+    __table_args__ = (UniqueConstraint('customer_id', 'location_code', name='_customer_location_uc'),
+                     )
+'''
 import datetime, os # for adhoc test
 from sqlalchemy.ext.declarative import declarative_base
 Base = declarative_base()
@@ -77,6 +101,40 @@ class ChapterSA(Base):
   def __repr__(self):
     title = self.title if len(self.title) < 50 else self.title[:50]
     return '<Chapter(id=%s, title="%s")>' % (str(self.id), title)
+
+
+
+class DocRefSA(Base):
+  '''
+  ALTER TABLE `chapters` ADD UNIQUE `bookid_n_chaptern_uniq`(`chapter_n`, `book_id`);
+  '''
+
+  __tablename__ = 'docrefs'
+
+  id = Column(Integer, primary_key=True)
+  tokid = Column(String(8))
+  authors = Column(String(150), nullable=True)
+  origins = Column(String(150), nullable=True)
+  program = Column(String(150), nullable=True)
+  refdate = Column(Date, nullable=True)
+  year = Column(Integer, nullable=True)
+  trecho_min = Column(Integer, nullable=True)
+  total_min = Column(Integer, nullable=True)
+  title = Column(String(255))
+  url = Column(String(255), nullable=True)
+  obs = Column(Text, nullable=True)
+
+  book_id = Column(Integer, ForeignKey('books.id'))
+  chapter_n = Column(Integer, ForeignKey('chapters.chapter_n'))
+  # article_id = Column(Integer, ForeignKey('books.id'), nullable=True)
+
+  created_at = Column(TIMESTAMP, server_default=func.now()) #, nullable=False, server_default=text('0'))
+  updated_at = Column(TIMESTAMP, nullable=True)
+
+  def __repr__(self):
+    title = self.title if len(self.title) < 50 else self.title[:50]
+    authors = self.title if len(self.authors) < 50 else self.authors[:50]
+    return '<Ref(id=%s, authors="%s", title="%s")>' % (str(self.id), authors, title)
 
 def adhoc_test():
   book = BookSA()

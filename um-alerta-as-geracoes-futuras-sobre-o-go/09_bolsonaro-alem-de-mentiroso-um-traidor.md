@@ -2,8 +2,7 @@
 ## Bolsonaro, além de Mentiroso, um Traidor
 
 
-# Capítulo 1
-## A Onda Vindo de Longe Sem Ser Percebida
+### A Onda Vindo de Longe Sem Ser Percebida
 
 No final de 2016, concluí o curso de Graduação em Direito pela FND, a Faculdade Nacional de Direito, da UFRJ, a Universidade Federal do Rio de Janeiro. No ano seguinte, 2017, passei no Exame Nacional da OAB, tendo então recebido o título de "advogado", que também é, pela legislação do país, um título de doutor (ref-pedro-ii).
 
