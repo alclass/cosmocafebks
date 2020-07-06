@@ -12,10 +12,12 @@ def run_goal():
   goal.report()
   print('N_PAGES', goal.N_PAGES)
 
-def calc_days_yet(n_words_ini, n_words_fim):
+def calc_days_yet(measure_ini, measure_fim):
   TOTAL_WORDS_IN_A_BOOK = 90000
-  done_on_a_day = abs(n_words_ini - n_words_fim)
-  days_yet = (TOTAL_WORDS_IN_A_BOOK - n_words_fim) / done_on_a_day
+  daysdiff = measure_fim.measuredate - measure_ini.measuredate
+  days_in_between = daysdiff.days if daysdiff.days > 1 else 1 # to avoid 0-division
+  done_on_a_day = abs(measure_ini.n_words - measure_fim.n_words) / days_in_between
+  days_yet = (TOTAL_WORDS_IN_A_BOOK - measure_fim.n_words) / done_on_a_day
   print('TOTAL_WORDS_IN_A_BOOK', TOTAL_WORDS_IN_A_BOOK)
   print('done_on_a_day', done_on_a_day)
   print ('days_yet', days_yet)
@@ -31,13 +33,13 @@ def process():
   if book is None:
     print (slug, 'not found')
     return
-  prod_per_day = []
+  measures_per_day = []
   for measure in book.measuresondates:
     print (measure.measuredate)
     print(measure.n_words)
-    prod_per_day.append(measure.n_words)
+    measures_per_day.append(measure)
     print (measure.json_chapters_words)
-  calc_days_yet(prod_per_day[-2], prod_per_day[-1])
+  calc_days_yet(measures_per_day[-2], measures_per_day[-1])
   session.close()
 
 if __name__ == "__main__":

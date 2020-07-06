@@ -1,11 +1,11 @@
 ---
 title:
 - type: main
-  text: As Altas Consequências do Resultado das Eleições de 2018
+  text: Um Alerta às Gerações Futuras sobre o Golpe de 2018
 creator:
 - role: author
   text: Luiz Ferreira Lewis
-description: Como o país rapidamente foi arruinado com o governo Bolsonaro
+description: Entre a Democracia e a República, entre medidas socioeconômicas mais à esquerda ou mais à direita, em face às necessidades de eterna construção do pôr vir, é necessária uma reflexão sobre o que aconteceu no Brasil, pelo resultado das eleições de 2018, que levou a que corruptos, mentirosos, trambiqueiros e, enfim, incentivadores do crime e do milicianismo tomassem o poder e, sob um sinal de alerta, agir para estes jamais retornem ao poder. 
 language: pt-BR
 stylesheet: epub.css
 cover-image: cover-example.jpg

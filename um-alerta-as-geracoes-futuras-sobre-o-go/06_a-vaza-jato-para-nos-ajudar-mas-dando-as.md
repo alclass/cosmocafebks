@@ -1,5 +1,9 @@
-# Capítulo 6
-## A Vaza Jato para Nos Ajudar: mas Dando as Provas Daquilo Que Deveria Ter Sido Óbvio
+# A Lava Jato Se Consagra Como Um Duplo Engodo
+## Capítulo 6
+
+A Lava Jato Se Consagra Como Um Duplo Engodo
+
+## A Lava Jato para Nos Ajudar: mas Dando as Provas Daquilo Que Deveria Ter Sido Óbvio
 
 Em Junho de 2019, o Intercept Brasil, liderada pelo jornalista premiado Glenn Greenwald, renomado pelo jornalismo investigativo que deu ao mundo o caso Edward Snowden, ex-analista de informações da NSA, que revelou o escândalo de grampos mundiais que o governo estadunidense promovia, escutando ilegalmente as comunicações dentro e fora dos EUA.
 

@@ -112,7 +112,7 @@ class DocRefSA(Base):
   __tablename__ = 'docrefs'
 
   id = Column(Integer, primary_key=True)
-  tokid = Column(String(8))
+  tokid = Column(String(8), unique=True)
   authors = Column(String(150), nullable=True)
   origins = Column(String(150), nullable=True)
   program = Column(String(150), nullable=True)
