@@ -26,7 +26,7 @@ chapterwordsdict = {}
 total_words = 0; jsonstr = ''
 
 slug = 'um-alerta-as-geracoes-futuras-sobre-o-go'
-def process():
+def process(save_to_db=False):
   print ('In updatedb()')
   session = sa_conn.Session()
   book = session.query(gmodels.BookSA).filter(gmodels.BookSA.slug==slug).first()
