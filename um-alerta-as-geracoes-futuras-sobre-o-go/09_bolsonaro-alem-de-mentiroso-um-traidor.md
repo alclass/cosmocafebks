@@ -1,11 +1,50 @@
-# Capítulo 9
-## Bolsonaro, além de Mentiroso, um Traidor
+# 9 Bolsonaro, além de Mentiroso, um Traidor
 
 
+## A Primeira Baixa: Gustavo Bebianno
 
- 
+
+A primeira baixa do início do governo Bolsonaro foi Gustavo Bebianno. Bebianno faleceu no ano seguinte e muitos comentaristas opinaram que sua morte, por infarto ((ref-istbeb11)) ((( istoe.com.br/ex-ministro-gustavo-bebianno-morre-no-rio-apos-infarto ))) , teria vindo pela depressão que lhe tomou aos poucos, pois, na mesma tese, Bebianno teria sido fiel a Bolsonaro e Bolsonaro teria lhe traído da pior forma. É necessário afirmar, neste ponto, que concordamos com os princípios morais que o professor José Fernandes tão bem divulga em seu canal no YouTube que, para se aliar a Bolsonaro, a pessoa não merecerá nossa comiseração, caso caia em desgraça nas mãos de um mentiroso miliciano como  é -- conforme temos visto e revisto -- Bolsonaro.
+
+Bebianno, advogado de origem, acompanhou Bolsonaro fielmente antes, durante e após a campanha eleitoral. Trouxe-lhe inúmeros novos apoiadores, inclusive ele foi o articulador para a entrada do empresário Paulo Marinho ((ref-oglmar11)) ((ref-folmar11)) -- importante personagem da trama bolsonarista da época da eleições cuja participação voltaremos a mencionar mais adiante -- na grande campanha que virou a deles, empresário que cedeu sua mansão no nobre bairro do Jardim Botânico para funcionar como QG (Quartel General) da campanha. Como advogado, Bebianno também foi o operador do Direito que representou Bolsonaro em inúmeras ações judiciais. O historiador Marco Villa, inclusive, em uma de seus ao-vivo diários, no YouTube, chegou a informar que Bebianno teria sido o advogado de um processo que Bolsonaro moveu ação contra Villa que, no caso de envolver o trabalho crítico-jornalístico de Villa, a que foi entendido pelo contexto, a ação foi rejeitada em seu mérito.
+
+Nós até podemos nos perguntar por que um homem que é estudado, que era faixa preta de jiu-jitsu com 1,88m de altura ((ref-valbeb11)), que era um advogado bem sucedido, por que este homem se meteria com Bolsonaro?  Bolsonaro, como temos visto, um ser ignorante, um neonazifascista confesso em suas palavras (os gritinhos que por anos e anos ele dava para se promover), um ladrão do dinheiro público nas rachadinhas e na falsificação de notas fiscais para ressarcimento de custos pela Câmara Federal, enfim, um homem não só totalmente ligado às milícias criminosas, alguém que subia ao parlatório da Câmara dos Deputados para promover e elogiar o milicianismo e os milicianos. O caso mais clássico é quando ele, da tribuna do microfone da Câmara dos Deputados, convida os milicianos da Bahia, que estavam naquele momentos sendo caçados pela polícia estadual, a virem para o Rio de Janeiro e, chegando, "serão muito bem vindos".  Como pode uma operador do Direito estudado, que possui ideais de civilidade, cair na lábia de um tal mentiroso?  Nós voltaremos a esse tema sobre a possibilidade de o fascismo, lato sensu, estar em todos nós, mas, por enquanto, fica a dúvida no ar. 
+
+Há, não obstante, um detalhe que ficou conhecido da época da demissão de Bebianno. Bebianno conviveu quase que ininterruptamente com Bolsonaro ao longo da campanha eleitoral de 2018. Bebianno, como vimos, chamava Bolsonaro de "o capitão", na acepção de "nosso capitão" que nos comandará a um país melhor, mais próspero, mais justo, mais importante no cenário internacional. Nesse trajeto de comunhão diária, conversando, trocando aspirações, realizando planejamentos para o futuro, Bebianno relembrou que um dos bordões da campanha era a seguinte frase dita por Bolsonaro:
+
+=> Soldado que cai em campo não é abandonado. Soldado meu, nunca será abandonado, soldado meu será sempre resgatado, cuidado, salvo, pois somos todos uma família (paráfrase). 
+
+Nós veremos novamente o caráter de falatório e falsidade que Bolsonaro propaga, mas, no caso de Bebianno, a frase-bordão de campanha é desmentida em pelo menos três vertentes, quais sejam:
+
+1) o soldado que caiu em campo e é resgatado é uma mentira;
+1) o soldado que caiu e poderia ser resgatado, também é uma mentira, pois quando este soldado cai em campo ele é para ser justamente abandonado, ou seja, é o contrário do que se diz;
+3) não só isso, o soldado que caiu em batalha não só é abandonado, não só é para ser abandonado, mas, pior, ele é executado enquanto caído.
+
+O caso Bebianno ilustra bem as três vertentes acima e a tese que muitos analistas levantaram, a de que Bebianno teria tido o infarto pela depressão de ter sido leal e a um homem que, por seu lado, é desleal, é plausível, provável e bem formulada.  Bebianno sofreu na carne o abandono em nome de um grupo de fala-fala que, na hora da ação, não tem compromisso com nada e não se responsabiliza por nada e, para ainda piorar, como veremos mais adiante no livro, um grupo que age milicianamente. Fica, ao final, um alerta às gerações futuras para que pessoas como Bolsonaro e seus seguidores não sejam eleitos, não sejam cortejados, não sejam promovidos, não sejam influenciadores de ninguém, pois eles farão da Terra um terra arrasada, não só para eles mesmos, mas para todos nós.
 
 
+## O Empresário Paulo Marinho
+
+Paulo Marinho é um personagem interessante e curioso na grande trama da eleição bolsonarista. Marinho não foi, propriamente dito, um traído como o foi Bebianno, mas ele certamente foi abandonado de primeira após vencidas as eleições.  Marinho voltou às manchetes jornalísticas quando revelou um notícia bomba em que a divulgação do imbróglio Fabrício Queiroz, um miliano que há décadas trabalhava para os Bolsonaros, da Polícia Federal à imprensa, teria sido adiada para não atrapalhar Bolsonaro no segundo turno das eleições, pois tal notícia poderia ter um impacto negativo e fazê-lo perder as eleições.
+
+A jornalista Taís Oyama, autora do livro Tormenta ((ref-oyator11)), revelou que um suposto aparelho celular, que pertencera a Bebianno, estaria nos EUA e, ao mesmo tempo, seria retornado ao Brasil. O aparelho conteria mensagens de comunicação entre Bebianno e Bolsonaro. Embora as mensagens não prometessem comprometer Bolsonaro em atos ilícitos, que se somassem aos inúmeros pedidos de impeachment por crimes de responsabilidade, todos parados na mesa do presidente da Câmara dos Deputados Rodrigo Maia, por outro lado, as mensagens reforçariam a verificação de Bolsonaro como um homem que mente contumazmente e que é um falso em relação as promessas de melhorias sociais. Tudo que se fazia era só para ganhar as eleições, nada do que era prometido possuía qualquer compromisso que fosse, tudo seria mais tarde resolvido "nas narrativas", no gogó, no falatório, no palavreado e, como sabemos, no iludimento, na distorção dos fatos e na mentira.
+
+Talvez muitos leitores neste momento questionem se a política já não é assim, ou seja, na época das eleições todos prometem um montão de coisas, mas, depois de eleitos, não há compromissos com as promessas e a vida segue adiante. Para esse caso, nós responderíamos que esse princípio não pode valer para o cargo mandatário, pois não só o mandatário estará sob o escrutínio maior que o cargo demanda, como ele terá uma enorme infraestrutura de base para trabalhar e mostrar o melhor de seu serviço.
+
+O Portal de Notícias UOL trouxe uma reportagem em que Marinho justifica a revelação daquele fato antigo, meses mais tarde, à memória de seu saudoso amigo Gustavo Bebianno e à demissão de Sérgio Moro do Ministério da Justiça ((ref-uolmar11)) ((( 2020/05/26/marinho-diz-que ))).
+
+
+## A Demissão de Ricardo Vélez
+
+((( ultimosegundo.ig.com.br/politica/2019-04-08/ricardo-velez-demitido.html )))
+
+
+## A Demissão de Santos Cruz
+
+ex-General
+
+((( veja.abril.com.br/politica/general-santos-cruz-e-demitido-por-bolsonaro/ )))
+((( brasil.elpais.com/brasil/2019/06/13/politica/... )))
 
 
 
@@ -54,4 +93,12 @@ Aos mais novos, Villa garante: vocês mais novos que acham que isso sempre foi a
 Vila ainda vai mais longe. Weitraub, assunto que melhor trataremos no Capítulo 14 (A Fuga de Weintraub), havia chamado Deodoro da Fonseca de traidor e Villa, um historiador que conhece a fundo a História Brasileira, indaga como pode Weintraub ter chamado gratuitamente Deodoro da Fonseca de traidor e ninguém ter dito nada, em nenhum lugar, em nenhum momento, principalmente de imediato, após a agressão gratuita.
 
 É neste momento que Villa nos lembra que a história é realizada pela *ação dos homens* e que, na agressão gratuita por Weintraub, pelo lado histórico, Fonseca teria perdido três irmãos na guerra do Paraguai, que são três filhos para sua mãe. Para Villa, é inconcebível que os representantes do exército, principalmente eles, não tenham dado uma resposta à altura pelo palavria inconsequente e irresponsável deste ignorante cósmico, arrogante medíocre, que é Weintraub. Weintraub foi, sem sombra de dúvidas -- e enormentemente --, o pior ministro da Educação que este país já teve. Que Deus não permita que a cadeira da Educação volte a ser ocupada -- embora os riscos estejam à solta -- por um mentiroso oportunista que não só fez o que fez para piorar, achincalhar e desmoralizar, fez o que fez para, no fundo, destruir aquilo que foi construído a duras penas, com o suor do trabalho daqueles que se propuseram a montar uma estrutura que fomentasse o incentivo, o apoio, a infraestrutura para que a cidadania pudesse se realizar com a contínua luta contra a ignorância, a favor do saber e da promoção dos talentos que florescem no povo, aqui e ali, em alguns mais, em alguns menos, mas que todos têm. Que Deus nos livre de gente como Weintraub, mas que, no fundo, só se tornaram ministro porque gente como Jair Bolsonaro chegou ao poder e aí temos que pedir a Deus para que o povo brasileiro não mais vote em gente que, ao enganar, mentir, trapacear, fará o país mais pobre, o pobre mais pobre e as mortes de toda a sorte acontecerão a rodo, ceifando a vida de todos que poderiam viver mais, contribuir mais, seguir uma vida que é a vida que um país civilizado e humanista deve buscar prover a todos.
+
+## Os Promotores de Fake News dentro do Palácio da Alvorada
+
+Conforme o professor José Fernandes nos explica, em suas emissões diárias no YouTube, a grande mídia, ao defender os interesses do "grande capital", possui, no rol de seus jornalistas mais renomados, pessoas que estão alinhadas com esta defesa. Pelo primeiro ano do desgoverno Bolsonaro, estendido por mais meio ano, a grande mídia ficou quieta e silenciada sobre os absurdos que vinham de Bolsonaro. Parte da grande mídia chegou a realizar matérias sobre os filhos de Bolsonaros ou sobre ministros que não fossem Paulo Guedes, pois, como tão bem argumenta o professor Fernandes, Guedes seria o homem do mercado, contra quem nada a grande mídia deveria falar.
+
+No caso do jornal O Globo, por suposição alinhado com o grande capital, há jornalistas de grande renome como por exemplo Miriam Leitão e Merval Pereira. É neste ponto que traremos à baila um artigo quebra-protocolo por Miriam Leitão. O leitor e a leitora podem já perguntar porque não trouxe a referência do 247 ou do DCM ((ref-d47bos11)) ((ref-dcmbos11)), dado que estes são muito mais pujantes no ataque a Bolsonaro e ao bolsonarismo, mas, há um detalhe especial em ser Miriam Leitão, no que mostraremos em breve, pois, como argumentado, se os jornalistas renomados da grande mídia, que por alinhamento ao "grande mercado" não ousou criticar o governo e, agora, o critica e o faz com força, então, a senha está dada para o fim do governo. Passemos ao artigo escrito por Miriam Leitão em 12 de julho de 2020 ((ref-ogllei11)).
+
+Na data supracitada, Leitão cobra do presidente uma explicação ao povo brasileiro de por quê e como criadores de fake news identificados, tanto pelas investigações contra as fake news como  unilateralmente pelas grandes redes sociais (Facebook, Instagram, Twitter, YouTube e outras), estavam trabalhando de dentro do Palácio da Alvorado ganhando, inclusive, altos salários do funcionalismo público. Leitão escreve com a ferida aberta, o povo quer uma explicação e, ademais, isto é um absurdo que é inaceitável. Para o professor José Fernandes, quando um grande jornal como O Globo chega a esse ponto, uma senha está dada para o início de processo de impeachment contra o presidente ((ref-jossen11)). Não dá mais para aguentar tamanha disparatez, disfaçatez, cinismo, hipocrisia e, ao largo, trambique, esta não só contra seus concorrentes e oponentes políticos, mas contra toda a Sociedade -- erga ominis ((ref-ogllei11)). 
 
