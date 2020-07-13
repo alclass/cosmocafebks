@@ -34,9 +34,14 @@ São absurdos em cima de absurdos. Eu até imagino um leitor ou leitora em um fu
 
 Não obstante, o alerta às gerações futuras é multidisciplinar: por um lado, nós não podemos dar os votos para políticos como Bolsonaro; por outro lado, nós temos que continuar pensando em formas de evoluir nosso modelo republicano-democrático, para que cada vez haja a chance de se repetir e de se ver o que temos visto. A sustentabilidade de nossa Economia, de nosso Meio-Ambiente e, no fundo, da própria paz em seio social dependem em muito desse esforço.
 
+
+O PSOL, Partido Socialista Liberal, em 10 de Julho 2020, apresentou notícia crime contra o presidente Jair Bolsonaro, na alegação declara-se que há infração de medida sanitária preventiva ((ref-fsppan11)).
+
+
 ===================
 
 O "platô", em linguagem gráfico-estatística, representa o ponto em que os número de vítima alcança seu máximo e de lá começa a diminuir, levando ao fim da pandemia mais adiante, quando mais pessoas já adquiriram anticorpos e menos contaminação ocorre entre pessoas.
+
 
 
 

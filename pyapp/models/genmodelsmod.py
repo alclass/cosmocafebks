@@ -124,17 +124,13 @@ class DocRefSA(Base):
   url = Column(String(255), nullable=True)
   obs = Column(Text, nullable=True)
 
-  book_id = Column(Integer, ForeignKey('books.id'))
-  chapter_n = Column(Integer, ForeignKey('chapters.chapter_n'))
-  # article_id = Column(Integer, ForeignKey('books.id'), nullable=True)
-
   created_at = Column(TIMESTAMP, server_default=func.now()) #, nullable=False, server_default=text('0'))
   updated_at = Column(TIMESTAMP, nullable=True)
 
   def __repr__(self):
     title = self.title if len(self.title) < 50 else self.title[:50]
-    authors = self.title if len(self.authors) < 50 else self.authors[:50]
-    return '<Ref(id=%s, authors="%s", title="%s")>' % (str(self.id), authors, title)
+    # authors = self.title if len(self.authors) < 50 else self.authors[:50]
+    return '<Ref(id=%s, title="%s")>' % (str(self.id), title) # authors,
 
 def adhoc_test():
   book = BookSA()

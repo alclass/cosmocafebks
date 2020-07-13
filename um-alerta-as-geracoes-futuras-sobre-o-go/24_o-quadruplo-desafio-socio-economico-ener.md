@@ -12,7 +12,12 @@ O primeiro aspecto vem da Reunião dos Infernos, ou seja, da ínfame reunião mi
 
 No início de Julho de 2020, quase três meses depois, as pressões internacionais para a demissão de Ricardo Salles cresceram quando a União Europeia publica que cortará relações não só com o Brasil, mas com todo o Mercosul e, mais, quer saber por que não foi realizado um estudo sobre a situação ambiental do governo Bolsonaro antes do acordo assinado no ano anterior, em 2019.  As pressões internacionais se juntaram às pressões nacionais, da imprensa aberta no país, principalmente em meio a notícias de que o desmatamento na Amazônia havia crescido enormemente.
 
-O vicepresidente Hamilton Mourão, em seu turno, oferece uma resposta ridícula ao assunto.  Ele, inacreditavelmente, culpa não haver dinheiro para as iniciativas antidesmatamento a não ter havido provisão financeira para a parte do exercíto dedicada à tarefa, mas, eis a questão, essa culpa é de quem?  Reinaldo Azevedo faz essa crítica em seu programa O É da Coisa com muita maestria, ele diz, com a ironia necessária: ora, então é o mesmo que dizer... TO-DO
+O vicepresidente Hamilton Mourão, em seu turno, oferece uma resposta ridícula ao assunto.  Ele, inacreditavelmente, culpa não haver dinheiro para as iniciativas antidesmatamento a não ter havido provisão financeira para a parte do exercíto dedicada à tarefa, mas, eis a questão, essa culpa é de quem?  Reinaldo Azevedo faz essa crítica em seu programa O É da Coisa com muita maestria, ele diz, com a ironia necessária: ora, então é o mesmo que dizer... TO-DO 
+
+
+((( aos 4' 2020-07-10 13' Política ambiental põe fogo no governo Bolsonaro-27TaxZJPf1s )))
+
+
 
 Bem, até aqui, o primeiro aspecto, que é a questão da destruição acelerada e criminosa da Amazônia que esse governo permitiu e, em muito medida, até mesmo incentivou.  A destruição do e os crimes contra o Meio Ambiente são crimes não só contra nossa geração, mas também contra as futuras gerações pôr vir, se virem, dadas as aceleradas destruições. Na próxima seção, trataremos do segundo aspecto, que é diferente do primeiro, mas que é igualmente importante em termos de questão ambiental: as iniciativas em favor da mitigação das emissões de Gases de Efeito Estufa.
 
