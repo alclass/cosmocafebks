@@ -1,6 +1,4 @@
-# Capítulo 17
-## A Pandemia do Coronavírus Escancara Exponencialmente o Desdém, o Desprezo e a Desvalorização da Vida Advindos do Desgoverno
-
+# 17  Coronavírus e a Deflagação de um Desgoverno
 
 O colunista da Folha de São Paulo, Bruno Boghossian, no dia 2, escreve um artigo que resume o desdém, o desprezo e a desvalorização da Vida promovidos pelos que ocuparam o poder, liderados pelo chefe do bando, o presidente da República. O título deste mencionado artigo é:
 
@@ -11,6 +9,8 @@ O subtítulo,  não menos estarrecedor, ainda diz:
 Bolsonaro adotou desdém perturbador, investiu em tratamento duvidoso e sonegou informações
 
 O Coronavírus, nesse momento do artigo em tela, havia feito mais de 60 mil mortos no país, número que considerado subnotificado, ou seja, o verdadeiro número de vítima da Covid-19 é muito maior.
+
+## A Pandemia do Coronavírus Escancara Exponencialmente o Desdém, o Desprezo e a Desvalorização da Vida Advindos do Desgoverno
 
 O Coronavírus, ao início de Março 2020, quando grande parte do país, principalmente as capitais e regiões metropolitanas adotaram a quarentena e o isolação social, trouxe um certo ar de solidariedade, de que os homens unidos formam um conjunto maior que se preocupa como todos podem ajudar todos e, dado que não existia uma vacina, a quarentena e o isolação social eram a única saída e a solidariedade, junto com a possibilidade de usar a mais valia social (a sobra dos tributos) para os mais pobres, que ficariam sem emprego, sem trabalho e desamparados.
 
@@ -36,6 +36,34 @@ Não obstante, o alerta às gerações futuras é multidisciplinar: por um lado,
 
 
 O PSOL, Partido Socialista Liberal, em 10 de Julho 2020, apresentou notícia crime contra o presidente Jair Bolsonaro, na alegação declara-se que há infração de medida sanitária preventiva ((ref-fsppan11)).
+
+
+## Gilmar Mendes Declara em Público Que os Militares Executam um Genocídio na Amazônia
+
+
+ref-folmdi11
+www1.folha.uol.com.br/poder/2020/07gilmar-fala-em-genocidio-de-indios-e-volta-a-criticar-excesso-de-militares-no-ministerio-da-saude.shtml
+
+
+O ministro do Supremo Tribunal Federal Gilmar Mendes, no dia 14 de julho 2020, em um ao-vivo promovido pelo IDP, intitulado: "O Supremo Tribunal Federal nas Três Décadas de Ordem Democrática Pós 88: conquista e desafios". A reportagem da Folha  ((ref-folidp11)) informa que Gilmar havia recentemente participado de uma videoconferência com Sebastião Salgado -- fotógrafo internacional renomado e que viaja por áreas indígenas para registrar fotos -- e Salgado, com essa proximidade aos grupos indígenas, pode informar a Gilmar Mendes que as mortes de índios que caracteriza, em seu escala, um genocídio. Nesta videoconferência, também participaram o ex-ministro da Saúde Luiz Henrique Mandetta e o Drauzio Varella, um médido nacionalmente conhecido e respeitado no país. Mandetta e Varella também chegaram às mesmas conclusões, através do contexto da ameaça da Coronavírus.
+
+Conforme as notícias nos chegam, os percentual de letalidade em áreas indígenas é maior que esta mesma cifra fora nas áreas complementares do país, mas, existe, em paralelo, o assassinato de índios pela violência de grupos ilegais que invadem as terras indígenas seja para desmatar, seja para mineração ilegal, seja para explorar as terras ilicitamente ((ref-folmdi11)) ((( mortes de índios ))).
+
+No mesmo dia, antes de Gilmar proferir o tema em tela, ele tinha divulgado uma nota oficial na qual confirmava seu respeito às forças armadas, mas reafirmava questionamentos anteriores sobre o papel da instituição no enfrentamento à pandemia do Coronavírus. Os militares, na lógica levantada, tinham três problemas, quais sejam:
+
+1. o governo Jair Bolsonaro preencheu um número grande de cargos do governo para militares da ativa que, com isso, tiveram um grande aumento salarial e geração um conflito ético no qual o militar que aceitar participar da política deve entrar para a reserva, ou seja, cortar seus vínculos com as forças armadas, que são instituições de Estado, não instituições de governo;
+
+2. o vicepresidente Hamilton Mourão havia se tornado coordenador de forças do exército que fariam uma missão tanto de proteção ao Meio Ambiente quanto de proteção das áreas indígenas; é desnecessário dizer, tal missão se tornou ineficiente e inócuo pois a destruição da floresta ocorria aceleradamente e os ataques aos índios também não eram combatidos;
+
+3. após da demisão do ex-ministro da Saúde Luiz Henrique Mandetta, da demisão de seu sucessor Nelson Teich, em poucos dias no cargo, Bolsonaro manteve um general da ativa, Eduardo Panzuello, como ministro da Saúde interino. Este ministro interino, quebrando com a tradição dos ministros de Saúde, não era médico, com o passar do tempo, verificava-se que ele nada fazia contra a pandemia, não possuía iniciativas compatíveis com o cargo, enfim, tornou-se um espécie de fantoche de Bolsonaro, que por sua vez insistiu no uso da Cloroquina, remédio que havia sido descartado pela comunidade internacional para o uso contra a Covid-19 e, com isso, a permanência do general Eduardo Panzuello agravou a questão dos conflitos éticos, na qual o militar da ativa não poderia particpar do governo e, sob a nova questão, que os militares estavam satisfeitos com os maiores salários (o salário devido mais o complemento de relativos altos valores no governo), sem promover melhorias e, ao mesmo tempo, se conectando a pioras nas áreas em que participassem.
+
+
+
+
+
+
+
+
 
 
 ===================
