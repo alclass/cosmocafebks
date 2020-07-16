@@ -38,8 +38,28 @@ Não obstante, o alerta às gerações futuras é multidisciplinar: por um lado,
 O PSOL, Partido Socialista Liberal, em 10 de Julho 2020, apresentou notícia crime contra o presidente Jair Bolsonaro, na alegação declara-se que há infração de medida sanitária preventiva ((ref-fsppan11)).
 
 
-## Gilmar Mendes Declara em Público Que os Militares Executam um Genocídio na Amazônia
+## Gilmar Mendes, Militares e o Cuidado para Não Se Associarem a um Genocídio
 
+Gilmar Mendes, em um ao-vivo, alerta aos militares: "cuidado para não se associarem a um genocídio" ((ref-reigil11)).  A príncipio -- e a valor de rosto -- a palavra genocídio poderia ser entendida como uma hipérbole, ou seja, existe algumas mortes, mas a sentença sugere um exagero, não é um genocídio. Contudo, mostraremos a seguir que houve de fato um genocídio e que Gilmar foi a voz que pôde levantar o assunto para que chegasse, pelos meios de comunicação, que até então não tinha dado vozes a diversas autoridades e especialidades que já gritavam o alerto, a mais pessoas no país e no exterior.
+
+Hipérbole ou não, o jornalista político Reinaldo Azevedo, na mesma data, reforçou o contexto para que significados subjetivos para o termo genocídio fossem desistidos e tomado o significado objetivo deste termo dado pelo Tribunal Penal Internacional, segundo a definição do Estatuto de Roma, tratado internacional do qual o Brasil é signatário e o recepciona através do Decreto nº 4.388 de 2002 ((ref-brde4388)). No Brasil, um tratato internacional, após assinado e ratificado pelo legislativo, deve ser transformado em lei doméstica. No caso de tratados em direitos humanos, estes têm um tratamento diferente dos demais tipos de tratados, estes, além de virar lei interna, ocupam uma posição "supralegal", entendido que o tratado fica abaixo da Constituição, mas acima das leis. Logo, nenhuma outra lei do país, exceto a lei maior, a Constituição, pode contrariar o tratado internacional recepcionado que trata de Direitos Humanos. O Decreto 4.388 mencionado é então a internalização do Estatuto de Roma no ordenamento Jurídico pátrio e seu texto é, como justo dito, lei no país e, por ter caráter de Direito Humanitário, é supralegal. Reproduzimos abaixo o texto do artigo 6º do referido tratado, que define o "crime de genocídio":
+
+<quote>
+Para os efeitos do presente Estatuto, entende-se por "genocídio", qualquer um dos atos que a seguir se enumeram, praticado com intenção de destruir, no todo ou em parte, um grupo nacional, étnico, racial ou religioso, enquanto tal:
+
+        a) Homicídio de membros do grupo;
+
+        b) Ofensas graves à integridade física ou mental de membros do grupo;
+
+        c) Sujeição intencional do grupo a condições de vida com vista a provocar a sua destruição física, total ou parcial;
+
+        d) Imposição de medidas destinadas a impedir nascimentos no seio do grupo;
+
+        e) Transferência, à força, de crianças do grupo para outro grupo.
+
+</quote>
+
+O historiador Marco Antônio Villa também fez a observação sobre o que deve ser o entendimento moderno de genocídio, que é o texto acima portado do art. 6º do Estatuto de Roma ((ref-vilind11)). Agravantemente, o presidente da república não só sabe o que está acontecendo, como também ainda incentiva, uma vez que ele demitiu ministros, distorcei informações, gerou administração temerário e ainda criou um contexto de fazer propaganda de um remédio ineficaz e perigoso para o caso da Covid-19.
 
 ref-folmdi11
 www1.folha.uol.com.br/poder/2020/07gilmar-fala-em-genocidio-de-indios-e-volta-a-criticar-excesso-de-militares-no-ministerio-da-saude.shtml
@@ -47,7 +67,7 @@ www1.folha.uol.com.br/poder/2020/07gilmar-fala-em-genocidio-de-indios-e-volta-a-
 
 O ministro do Supremo Tribunal Federal Gilmar Mendes, no dia 14 de julho 2020, em um ao-vivo promovido pelo IDP, intitulado: "O Supremo Tribunal Federal nas Três Décadas de Ordem Democrática Pós 88: conquista e desafios". A reportagem da Folha  ((ref-folidp11)) informa que Gilmar havia recentemente participado de uma videoconferência com Sebastião Salgado -- fotógrafo internacional renomado e que viaja por áreas indígenas para registrar fotos -- e Salgado, com essa proximidade aos grupos indígenas, pode informar a Gilmar Mendes que as mortes de índios que caracteriza, em seu escala, um genocídio. Nesta videoconferência, também participaram o ex-ministro da Saúde Luiz Henrique Mandetta e o Drauzio Varella, um médido nacionalmente conhecido e respeitado no país. Mandetta e Varella também chegaram às mesmas conclusões, através do contexto da ameaça da Coronavírus.
 
-Conforme as notícias nos chegam, os percentual de letalidade em áreas indígenas é maior que esta mesma cifra fora nas áreas complementares do país, mas, existe, em paralelo, o assassinato de índios pela violência de grupos ilegais que invadem as terras indígenas seja para desmatar, seja para mineração ilegal, seja para explorar as terras ilicitamente ((ref-folmdi11)) ((( mortes de índios ))).
+Conforme as notícias nos chegam, os percentual de letalidade em áreas indígenas é maior que esta mesma cifra fora nas áreas complementares do país, mas, existe, em paralelo, o assassinato de índios pela violência de grupos ilegais que invadem as terras indígenas seja para desmatar, seja para mineração ilegal, seja para explorar as terras ilicitamente ((ref-folmdi11)) ((ref-g1ggen11)).
 
 No mesmo dia, antes de Gilmar proferir o tema em tela, ele tinha divulgado uma nota oficial na qual confirmava seu respeito às forças armadas, mas reafirmava questionamentos anteriores sobre o papel da instituição no enfrentamento à pandemia do Coronavírus. Os militares, na lógica levantada, tinham três problemas, quais sejam:
 
@@ -56,11 +76,6 @@ No mesmo dia, antes de Gilmar proferir o tema em tela, ele tinha divulgado uma n
 2. o vicepresidente Hamilton Mourão havia se tornado coordenador de forças do exército que fariam uma missão tanto de proteção ao Meio Ambiente quanto de proteção das áreas indígenas; é desnecessário dizer, tal missão se tornou ineficiente e inócuo pois a destruição da floresta ocorria aceleradamente e os ataques aos índios também não eram combatidos;
 
 3. após da demisão do ex-ministro da Saúde Luiz Henrique Mandetta, da demisão de seu sucessor Nelson Teich, em poucos dias no cargo, Bolsonaro manteve um general da ativa, Eduardo Panzuello, como ministro da Saúde interino. Este ministro interino, quebrando com a tradição dos ministros de Saúde, não era médico, com o passar do tempo, verificava-se que ele nada fazia contra a pandemia, não possuía iniciativas compatíveis com o cargo, enfim, tornou-se um espécie de fantoche de Bolsonaro, que por sua vez insistiu no uso da Cloroquina, remédio que havia sido descartado pela comunidade internacional para o uso contra a Covid-19 e, com isso, a permanência do general Eduardo Panzuello agravou a questão dos conflitos éticos, na qual o militar da ativa não poderia particpar do governo e, sob a nova questão, que os militares estavam satisfeitos com os maiores salários (o salário devido mais o complemento de relativos altos valores no governo), sem promover melhorias e, ao mesmo tempo, se conectando a pioras nas áreas em que participassem.
-
-
-
-
-
 
 
 
