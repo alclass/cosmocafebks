@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Tempo de geração: 12-Jul-2020 às 23:00
+-- Tempo de geração: 17-Jul-2020 às 22:37
 -- Versão do servidor: 5.7.30-0ubuntu0.18.04.1
 -- versão do PHP: 7.2.24-0ubuntu0.18.04.6
 
@@ -21,8 +21,6 @@ SET time_zone = "+00:00";
 --
 -- Banco de dados: `mywritingsdb`
 --
-CREATE DATABASE IF NOT EXISTS `mywritingsdb` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE `mywritingsdb`;
 
 -- --------------------------------------------------------
 
@@ -30,7 +28,6 @@ USE `mywritingsdb`;
 -- Estrutura da tabela `books`
 --
 
-DROP TABLE IF EXISTS `books`;
 CREATE TABLE `books` (
   `id` int(10) UNSIGNED NOT NULL,
   `title` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
@@ -55,7 +52,6 @@ INSERT INTO `books` (`id`, `title`, `subtitle`, `slug`, `category_id`, `obs`, `c
 -- Estrutura da tabela `chapters`
 --
 
-DROP TABLE IF EXISTS `chapters`;
 CREATE TABLE `chapters` (
   `id` int(10) UNSIGNED NOT NULL,
   `title` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
@@ -105,7 +101,6 @@ INSERT INTO `chapters` (`id`, `title`, `slug`, `chapter_n`, `is_completed`, `obs
 -- Estrutura da tabela `datedmeasures`
 --
 
-DROP TABLE IF EXISTS `datedmeasures`;
 CREATE TABLE `datedmeasures` (
   `id` int(10) UNSIGNED NOT NULL,
   `measuredate` date NOT NULL,
@@ -132,7 +127,6 @@ INSERT INTO `datedmeasures` (`id`, `measuredate`, `n_words`, `json_chapters_word
 -- Estrutura da tabela `docrefs`
 --
 
-DROP TABLE IF EXISTS `docrefs`;
 CREATE TABLE `docrefs` (
   `id` int(10) UNSIGNED NOT NULL,
   `tokid` varchar(8) COLLATE utf8mb4_unicode_ci NOT NULL,
@@ -171,7 +165,29 @@ INSERT INTO `docrefs` (`id`, `tokid`, `authors`, `origins`, `program`, `refdate`
 (13, 'oedrei12', 'Reinaldo Azevedo', 'BandNews', 'O É da Coisa', '2020-06-19', NULL, NULL, 13, 'Weintraub é ridículo até ao sair, mas será premiado', NULL, 'youtu.be/5s5Ho-llvIw', 'Neste trecho, 13\', Reinaldo Azevedo destrói forte Abraham Weintraub', '2020-07-06 02:00:57', NULL),
 (14, 'opmuol12', 'Ricardo Viel', 'Opera Mundi', NULL, '2019-07-29', NULL, NULL, NULL, 'O bolsonarismo é o neofacismo adaptado ao Brasil do século 21', 'Para Manuel Loff, estudioso português de governos autoritários, bolsonarismo soma “nostalgia da ditadura, discurso sobre a corrupção” e “ligação ao mundo evangélico”', 'https://operamundi.uol.com.br/politica-e-economia/59687/o-bolsonarismo-e-o-neofacismo-adaptado-ao-brasil-do-seculo-21', NULL, '2020-07-06 02:54:24', NULL),
 (15, 'fsppan11', NULL, 'Folha SP', 'Painel', '2020-07-12', NULL, NULL, NULL, 'PSOL entra com queixa-crime contra Bolsonaro por atuação na pandemia', 'Partido argumenta que Bolsonaro minimizou a Covid-19 e desrespeitou repetidamente as regras de contenção da doença, colocando em risco a vida da população', 'https://www1.folha.uol.com.br/colunas/painel/2020/07/psol-entra-com-queixa-crime-contra-bolsonaro-por-atuacao-na-pandemia.shtml', NULL, '2020-07-12 20:36:20', NULL),
-(16, 'bugbol14', 'Henry Bugalho', 'YouTube', NULL, '2020-07-08', NULL, NULL, NULL, '2020-07-08 21\' BOLSONARO E O ÓDIO QUE NOS UNE!', NULL, 'youtu.be/Yn6UkvFi8Yw', 'Comentário sobre o artigo por Hélio Schwartzman em que escreve: torço para que Bolsonaro, tendo pego o Coronavírus, mora. O problema do trem, famoso da palestra por Michael Sandel. Et al.', '2020-07-12 23:59:22', NULL);
+(16, 'bugbol14', 'Henry Bugalho', 'YouTube', NULL, '2020-07-08', NULL, NULL, NULL, '2020-07-08 21\' BOLSONARO E O ÓDIO QUE NOS UNE!', NULL, 'youtu.be/Yn6UkvFi8Yw', 'Comentário sobre o artigo por Hélio Schwartzman em que escreve: torço para que Bolsonaro, tendo pego o Coronavírus, mora. O problema do trem, famoso da palestra por Michael Sandel. Et al.', '2020-07-12 23:59:22', NULL),
+(17, 'pormbl11', 'José Fernandes', 'Portal do José', NULL, '2020-07-13', NULL, NULL, NULL, 'Pane na Direita', '\"Guedes é um Bo$ta a serviço de corruptos\": Diz MBL! Como enfrentar vinganças?', 'youtu.be/_f2FvputC2w', NULL, '2020-07-14 23:56:00', NULL),
+(18, 'rdvfel11', NULL, NULL, 'Roda Viva Entrevista', '2020-05-18', NULL, NULL, NULL, 'Roda Viva com Felipe Neto', NULL, 'youtu.be/KQ1CQqNveac', NULL, '2020-07-14 23:56:00', NULL),
+(19, 'bibmt716', 'Mateus capítulo 7 versículo 16', 'Bíblia Cristã', NULL, NULL, NULL, NULL, NULL, 'Por Seus Frutos, Vós Os Conhecereis', NULL, NULL, NULL, '2020-07-15 00:00:44', NULL),
+(20, 'reilib11', 'Reinaldo Azevedo', NULL, 'O É da Coisa', '2020-07-10', NULL, NULL, NULL, 'Não conter e não punir “fake news” é dar um tiro na própria cabeça', NULL, 'youtu.be/HJdSVVm_OQs', NULL, '2020-07-15 00:03:04', NULL),
+(21, 'reilvj13', 'Reinaldo Azevedo', NULL, 'O É da Coisa', '2020-07-10', NULL, NULL, NULL, 'Lava Jato está triste - vai ter de seguir a lei pela 1ª vez...', NULL, 'youtu.be/cWLOEFmmWDs', NULL, '2020-07-15 00:05:59', NULL),
+(22, 'folcor11', 'Fernanda Mena', 'Folha SP', NULL, '2020-01-23', NULL, NULL, NULL, 'Sob Bolsonaro, Brasil repete pior nota em ranking de percepção do combate à corrupção', 'Promessas de campanha do presidente se converteram em mais retrocessos que avanços na pauta, aponta ONG', 'https://www1.folha.uol.com.br/poder/2020/01/sob-bolsonaro-brasil-repete-pior-nota-em-ranking-de-percepcao-do-combate-a-corrupcao.shtml', NULL, '2020-07-15 00:16:07', NULL),
+(23, 'bdfcor11', 'Redação', 'Brasil de Fato', NULL, NULL, NULL, NULL, NULL, 'Com Bolsonaro, Brasil mantém pior nota no combate à corrupção', 'Com a pontuação baixa, o país caiu mais uma posição em lista com 180 países, indo para o 106º lugar', 'https://www.brasildefato.com.br/2020/01/23/brasil-continua-com-a-pior-nota-quando-o-assunto-e-combate-a-corrupcao', NULL, '2020-07-15 00:19:50', NULL),
+(24, 'oglcor11', 'Rayanderson Guerra', 'O Globo', NULL, '2020-01-23', NULL, NULL, NULL, 'Governo tomou medidas que resultaram em retrocesso no combate à corrupção, avalia Transparência Internacional', NULL, 'https://oglobo.globo.com/brasil/governo-tomou-medidas-que-resultaram-em-retrocesso-no-combate-corrupcao-avalia-transparencia-internacional-24206817', NULL, '2020-07-15 00:24:10', NULL),
+(25, 'uolcor11', 'Jamil Chade', 'UOL', NULL, '2020-04-30', NULL, NULL, NULL, 'Ingerência presidencial em órgãos anti-corrupção e Amazônia preocupam OCDE', NULL, 'https://noticias.uol.com.br/colunas/jamil-chade/2020/04/30/ocde-critica-interferencia-de-bolsonaro-em-luta-anti-corrupcao-e-amazonia.htm', NULL, '2020-07-15 00:28:58', NULL),
+(26, '', NULL, 'Brasil 247', NULL, NULL, NULL, NULL, NULL, 'Bloomberg estampa catástrofe brasileira: hospitais transbordando, corrupção generalizada e um populista obcecado por cloroquina', NULL, 'https://www.brasil247.com/coronavirus/bloomberg-estampa-catastrofe-brasileira-hospitais-transbordando-corrupcao-generalizada-e-um-populista-obcecado-por-cloroquina', NULL, '2020-07-15 00:33:02', NULL),
+(27, 'blocor11', 'Julia Leite, Simone Iglesias, Martha Beck & Ethan Bronner', 'Bloomberg Businessweek', NULL, NULL, NULL, NULL, NULL, 'The Pandemic’s Worst-Case Scenario Is Unfolding in Brazil', 'Overflowing hospitals. Widespread corruption. And a chloroquine-obsessed populist in charge', 'https://www.bloomberg.com/news/features/2020-06-24/coronavirus-pandemic-brazil-faces-worst-case-scenario', NULL, '2020-07-15 00:36:37', NULL),
+(28, 'ttchss11', 'Richard B. Spence', 'TTC', NULL, NULL, 2019, NULL, NULL, 'The Real History of Secret Societies', NULL, 'https://www.thegreatcoursesplus.com/the-real-history-of-secret-societies', NULL, '2020-07-15 00:45:10', NULL),
+(29, 'fdlcir11', NULL, 'Fórum da Liberdade', NULL, NULL, 2008, NULL, NULL, 'Debate entre Ciro Gomes e Paulo Guedes no 21º Fórum da Liberdade', NULL, 'youtu.be/G8neGsOIh18', NULL, '2020-07-15 00:49:29', NULL),
+(31, 'reigil11', 'Reinaldo Azevedo', NULL, 'O É da Coisa', '2020-07-14', NULL, NULL, 29, 'Generais confundem governo com quartel. Voltem para a caserna!', NULL, 'youtu.be/RoIcdolud60', 'Gilmar Mendes, em um ao-vivo, alerta aos militares: \"cuidado para não se associarem a um genocídio\"', '2020-07-16 00:14:03', NULL),
+(32, 'brde4388', NULL, 'Decreto nº 4.388 de 2002 (Estatuto de Roma)', NULL, '2002-09-25', NULL, NULL, NULL, '', 'Promulga o Estatuto de Roma do Tribunal Penal Internacional', 'http://www.planalto.gov.br/ccivil_03/decreto/2002/d4388.htm', NULL, '2020-07-16 00:43:23', NULL),
+(33, 'g1ggen11', 'Redação', 'G1', NULL, '2019-09-24', NULL, NULL, NULL, 'Número de assassinatos de indígenas cresce 20% no Brasil em 2018, aponta relatório do Cimi', NULL, 'https://g1.globo.com/natureza/noticia/2019/09/24/numero-de-assassinatos-de-indigenas-cresce-20percent-no-brasil-em-2018-aponta-relatorio.ghtml', NULL, '2020-07-16 00:59:35', NULL),
+(34, 'vilind11', 'Marco Antônio Villa', 'YouTube', NULL, '2020-07-15', NULL, NULL, 26, 'Bolsonaro - a irracionalidade no poder', NULL, 'youtu.be/ibaiu5ekROE', NULL, '2020-07-16 01:15:20', NULL),
+(35, 'huffnb11', 'Débora Melo, Marcella Fernandes', 'Huffpost Brasil', NULL, '2019-01-14', NULL, NULL, NULL, 'Estratégia de Bolsonaro, que inclui fake news e ataques à imprensa, é \'problemática\'', 'Ao fazer das redes sociais canal oficial de comunicação do governo, presidente se mantém no palanque e evita questionamentos', 'https://www.huffpostbrasil.com/entry/bolsonaro-ataques-imprensa-fake-news_br_5c3b4cdde4b01c93e00abdfb', NULL, '2020-07-18 00:43:37', NULL),
+(36, 'huffnb12', 'Redação', 'Huffpost Brasil', NULL, '2018-10-24', NULL, NULL, NULL, '‘Kit gay’: A verdade sobre o programa alvo de críticas e fake news de Bolsonaro', 'Candidato trouxe tema para a campanha; TSE proibiu vídeos sobre o \'kit gay\' por desinformação', 'https://www.huffpostbrasil.com/2018/10/24/kit-gay-a-verdade-sobre-o-programa-alvo-de-criticas-e-fake-news-de-bolsonaro_a_23565210', NULL, '2020-07-18 00:51:49', NULL),
+(37, 'elpmdt13', 'Afonso Benites', 'El País', NULL, '2018-10-28', NULL, NULL, NULL, 'A máquina de ‘fake news’ nos grupos a favor de Bolsonaro no WhatsApp', 'Reportagem do EL PAÍS acompanhou mobilização on-line por três semanas e detectou ativação para responder mídia, mentiras e teoria de conspiração', 'https://brasil.elpais.com/brasil/2018/09/26/politica/1537997311_859341.html', NULL, '2020-07-18 01:00:38', NULL),
+(38, 'vilbol11', 'Marco Antônio Villa', 'YouTube', NULL, '2020-06-16', NULL, NULL, 37, 'Bolsonaro e a sua vocação para ditador', NULL, 'youtu.be/_Q00dgJpA2A', NULL, '2020-07-18 01:09:24', NULL),
+(40, 'bugcha11', NULL, NULL, NULL, '2020-07-03', NULL, NULL, 19, 'Somos o Povo Mais Burro do Planeta!', NULL, 'youtu.be/QRbqXZVGB8o', 'Aos 8\', passa o trecho de uma palestra em que Marilena Chauí declara que odeia a classe média.', '2020-07-18 01:13:39', NULL);
 
 --
 -- Índices para tabelas despejadas
@@ -231,7 +247,7 @@ ALTER TABLE `datedmeasures`
 -- AUTO_INCREMENT de tabela `docrefs`
 --
 ALTER TABLE `docrefs`
-  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=41;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

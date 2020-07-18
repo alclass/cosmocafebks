@@ -1,4 +1,6 @@
-# 19 A Tese dos Brasileiros Como Facistas contra a Tese dos Muitos Enganados
+# 19 Facistas ou Enganados
+
+## A Tese dos Brasileiros Como Facistas contra a Tese dos Muitos Enganados
 
 Ao longo do últimos anos, incluindo os anos dos governos Lula e Dilma, do PT, movimentos antidemocrático, fascista em seu sentido "neofascista", que admite uma variação de significado em relação ao termo "fascista" original, racista, em seu sentido estrutural, ou seja, o racismo que está estruturalmente enraizados em seio social, alcançando, incluvise, pessoas que seriam vítimas das próprias variações desse racismo, enfim, esses movimentos se levantaram e difusamente começaram a atacar por todos os lados.
 
@@ -73,7 +75,3 @@ De repente, em meio à pandemia, pensava que os bolsonaristas iriam começar a v
 Aqueles que defenderem o governo dizendo que a pandemia foi a responsável pela derrocada econômica, têm que se lembrar que antes do início da pandemia o país já tinha anunciado o "pibinho", o PIB de cifra pequena, que indicava que a Economia promovida pelo governo Bolsonaro e por Paulo Guedes como Ministro da Economia era uma farsa. Eles cantaram que transformariam o país para crescer enormemente e eles, na maior das incompetências -- e possivelmente das intenções que não podem ser confessadas --, jogaram o país na miséria econômica, na qual, para muitos analistas, levaria décadas para se recuperar ((ref-vilres11)) ((ref-edures11)) ((ref-reires11)).
 
 Desse espírito de perplexidade, acima retratado, questionava-me como uma pessoa que viveu do falatório, da ideologia neonazifascista, da eterna geração de gritinhos sem produzir nada, sem oferecer nada, sem criar nada, sem ter sequer um projeto de lei como parlamentar em seu portfólio, não só tinha se transformado em presidente da república, cargo mais alto do país, como também tinha uma legião de adoradores que diziam as coisas mais opostas e improváveis ao se situar na condição de apoiadores, de bolsonaristas, de bolsomínios, 
-
-
-
-

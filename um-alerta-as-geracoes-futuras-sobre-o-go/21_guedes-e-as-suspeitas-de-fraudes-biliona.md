@@ -1,4 +1,6 @@
-# 21 Guedes e as Suspeitas de Fraudes Bilionárias contra Fundos de Pensão
+# 21 As Suspeitas sobre Paulo Guedes II
+
+## Guedes e as Suspeitas de Fraudes Bilionárias contra Fundos de Pensão
 
 Existe um vídeo disponível no YouTube, relativamente antigo, em que um debate de palestrantes se desenvolve. Há três palestrantes que debatem em si com sua oratória. É possível verficar que, para o tema ficar coeso e coordenado, um mediator guia a fala dos três palestrantes. ((ref-fdlcir11)).
 

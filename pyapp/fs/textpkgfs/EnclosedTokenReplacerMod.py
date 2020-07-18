@@ -2,6 +2,7 @@
 import os, pathlib, re
 from pyapp.models.sa_conn import Session
 from pyapp.models.genmodelsmod import DocRefSA
+import pyapp.fs.textpkgfs.refsfunctions as reffs
 '''
 The main class in this module is EnclosedTokenReplacer.
 It's a toolchain kind of class where a text with placeholders (called enclosed tokens)
@@ -14,74 +15,6 @@ Generally, this class can be used as a placeholder replacer where the placeholde
 Though this implementation is not the general one aboved cited,
   a reimplementation might perform the general case and an inherited class might implement the case above shown.
 '''
-def calc_words(text):
-  words = text.split(' ')
-  n_words = len(words)
-  return n_words
-
-def startswith_number_underline(f):
-  try:
-    pp = f.split('_')
-    _ = int(pp[0])
-    return True
-  except ValueError:
-    pass
-  return False
-
-def find_docref_in_db(refstr, session):
-  ref = session.query(DocRefSA).filter(DocRefSA.tokid==refstr).first()
-  return ref
-
-# ((ref-jeseli11))
-ex1 = ' bla ((ref-jeseli11)) bla '
-regexp_str = r'(\(\(ref\-\w{8}\)\))' # inscritos
-default_re_compiled = re.compile(regexp_str)
-def find_refs_via_regexp(text, p_re_compiled = None):
-  if p_re_compiled is None:
-    p_re_compiled = default_re_compiled
-  refs = []
-  for item in p_re_compiled.finditer(text):
-    ref = item.groups(1) # + ' ' + str(match.group(2))
-    refs.append(ref)
-  return refs
-
-def find_first_ref_in_text_or_None(text, p_re_compiled = None):
-  if p_re_compiled is None:
-    p_re_compiled = default_re_compiled
-  match_o =  p_re_compiled.search(text)
-  if match_o:
-    inipos, endpos = match_o.span()
-    enctokid = match_o.group(1)
-    return (inipos, endpos, enctokid)
-  return None
-
-def print_results(refsstr, md):
-  session = Session()
-  for refstr in refsstr:
-    ref = find_docref_in_db(refstr, session)
-    print (md, refstr, ref)
-  session.close()
-
-root_abspath = pathlib.Path(__file__).parent
-def read_all_chapters():
-  slug = 'um-alerta-as-geracoes-futuras-sobre-o-go'
-  book_abspath = os.path.join(root_abspath, slug)
-  filenames = os.listdir(book_abspath)
-  filenames = list(filter(lambda f:f.endswith('.md'), filenames))
-  mds = list(filter(lambda f: startswith_number_underline(f), filenames))
-  mds = sorted(mds)
-  nOfChapters = len(mds)
-  proj_words_per_chapter = 90000//nOfChapters
-  for md in mds:
-    md_abspath = os.path.join(book_abspath, md)
-    text = open(md_abspath, encoding='utf8').read()
-    refsstr = find_refs_via_regexp(text)
-    print_results(refsstr, md)
-
-def convert_enctoken_to_tokid(enctoken):
-  if enctoken.startswith('((ref-') and enctoken.endswith('))'):
-    return enctoken[ len('((ref-') : - len('))') ]
-  return None
 
 text1_before_interpol = '''
 **A  tese é adiantada por *((ref-bugcor11))*
@@ -93,8 +26,10 @@ class EnclosedTokenReplacer:
   def __init__(self, text, injectdict, enctok_patternstr=None):
     self.text = text
     self.seq = 1
+    self.serial = 0
     self.injectdict = injectdict
     self.ocorrencedict = {}
+    self.annex = ''
     self.enctok_comp_regexp = None
     self.compile_regexp(enctok_patternstr)
 
@@ -108,19 +43,39 @@ class EnclosedTokenReplacer:
     :return:
     triple (inipos, endpos, enclosed_token) or None
     '''
-    return find_first_ref_in_text_or_None(self.text, self.enctok_comp_regexp)
+    return reffs.find_first_ref_in_text_or_None(self.text, self.enctok_comp_regexp)
+
+  def get_inject_tokid_replacement_n_add_to_annex(self, tokid, freq_order):
+    session = Session()
+    docref = session.query(DocRefSA).filter(DocRefSA.tokid == tokid).first()
+    if docref is None:
+      session.close()
+      return None
+    ref_annex = docref.gen_ref_annex()
+    self.annex += ref_annex
+    anchorname = tokid + str(freq_order)
+    injectphrase = '<a name="%(anchorname)s" href="#%(tokid)s">' %({'anchorname':anchorname, 'tokid': tokid})
+    inref = docref.get_refsurname_or_other()
+    inref += '[' + str(self.add_n_get_serial()) + ']'
+    injectphrase += '^(' + inref + '^)</a>'
+    session.close()
+    return injectphrase
+
+  def add_n_get_serial(self):
+    self.serial += 1
+    return self.serial
 
   def find_inject_phrase_by_enctoken(self, enctoken):
-    tokid = convert_enctoken_to_tokid(enctoken)
+    tokid = reffs.convert_enctoken_to_tokid(enctoken)
     if tokid in self.injectdict.keys():
       if tokid in self.ocorrencedict:
         freq = self.ocorrencedict[tokid]
         freq += 1
         self.ocorrencedict[tokid] = freq
-        return tokid + str(freq)
       else:
-        self.ocorrencedict[tokid] = 1
-        return tokid + '1'
+        freq = 1
+        self.ocorrencedict[tokid] = freq
+      return self.get_inject_tokid_replacement_n_add_to_annex(tokid, freq)
     return None
 
   def replace_text_with_triple_ini_fim_n_word(self, inipos, endpos, enctoken):

@@ -127,6 +127,18 @@ class DocRefSA(Base):
   created_at = Column(TIMESTAMP, server_default=func.now()) #, nullable=False, server_default=text('0'))
   updated_at = Column(TIMESTAMP, nullable=True)
 
+  def get_refsurname_or_other(self):
+    if self.authors:
+      if self.authors.find(',') < 0:
+        return self.authors.split(' ')[-1]
+      first_author = self.authors.split(',')
+      return first_author.split(' ')[-1]
+    if self.origins:
+      return self.origins
+    if self.program:
+      return self.program
+    return 'ref' # improbable to get here but there it goes, 'ref' if it ever happens (due to an incomplete record on db) is okay
+
   def __repr__(self):
     title = self.title if len(self.title) < 50 else self.title[:50]
     # authors = self.title if len(self.authors) < 50 else self.authors[:50]

@@ -2,7 +2,7 @@
 '''
 
 '''
-import pyapp.fs.textfunctions.refs_functions as rfs
+import pyapp.fs.textpkgfs.EnclosedTokenReplacerMod as rfs
 def ref_generator(interpol_text, docreflist):
   rfs.find_refs_via_regexp()
   return 'blah'

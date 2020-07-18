@@ -1,7 +1,11 @@
-# Capítulo 20
+# 20  As Suspeitas sobre Paulo Guedes I
+
+As Suspeitas sobre Paulo Guedes I
+
 ## Guedes: a Mentira sem o Menor Pudor
 
-# Capítulo 4
+Guedes: a Mentira sem o Menor Pudor
+
 ## A Década Perdida e as Décadas a Perder
 
 O historiador Marco Antônio Villa, em seu canal YouTube, tem sido uma das vozes mais enfáticas e emblemáticas contra o desgoverno que tomou o país em 2019.
