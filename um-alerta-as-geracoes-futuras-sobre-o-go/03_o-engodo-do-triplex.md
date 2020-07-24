@@ -1,13 +1,18 @@
-# 3  O Engodo do Triplex
+# 3  O Engodo do Triplex I
 
 ## A Fraude da Condenação Penal do Triplex
 
-A Armação e Fraude da Condenação Penal do Triplex contra o ex-Presidente Lula: o Judiciário Face a um Alto Risco
+Para o início do capítulo, necessitamos de explicar do que trata seu assunto principal. O termo triplex se refere a um apartamento triplex de um edíficio em um bairro nobre da cidade de Guarujá, no litoral paulista. O termo triplex também é o apelido de um processo penal na esfera federal contra o ex-presidente Lula, por meio do qual o ex-presidente foi condenado criminalmente.
 
-## A Armação e Fraude da Condenação Penal do Triplex contra o ex-Presidente Lula: o Judiciário Face a um Alto Risco
+A base do crime imputado ao ex-presidente foi o recebimento de um bem imóvel contra a facilitação para a celebração de contratos superfaturados de empreiteiras com a Petrobras, a estatal brasileira da indústria do petróleo. Esta facilitação, tendo por base a própria influência do cargo de presidente contra o recebimento de vantagens é, no abstrato, uma caracterização óbvia do crime de corrupção passiva. O crime adicional de lavagem de dinheiro, por características da legislação e da jurisprudência, sobre as quais escrevemos em uma outra obra, é cumulado com o crime de corrupção passiva.
 
+## A Armação contra o ex-Presidente Lula
 
-### A Onda Vindo de Longe Sem Ser Percebida
+O leitor e a leitora devem ter percebido que a situação acima pintada, no abstrato, pode não ter uma contrapartida no concreto -- a norma existe mas não a subsunção dos fatos à norma --, por diversas situações, algumas das quais trataremos em breve. Uma situação imediata, para a falta dos fatos, é a própria condição política do presidente da República. O presidente não possui ingerência direta sobre um ente que pertence à Administração Pública Indireta e, embora tenha por lei a prerrogativa de escolher o presidente da empresa, o que ele faz ouvindo a base de apoio, ele não possui responsabilidade direta sobre a administração da empresa. Só este detalhe justo exposto, a segregação de funções entre o presidente da República e os administradores da estatal, já levanta um indício de que a acusação não só é improvável, mas é uma armação, algo que é criado para incriminar o outro e, com isso, obter outras vantagens.
+
+Este capítulo será o que terá um pouco mais de temas jurídicos em seu teor. O leitor ou a leitora que sentir alguma dificuldade com o assunto jurídico aqui trazido, poderá pular ao capítulo seguinte, continuar a leitura e, em um momento posterior, retornar ao capítulo.
+
+## A Onda Vindo de Longe Sem Ser Percebida
 
 No final de 2016, concluí o curso de Graduação em Direito pela FND, a Faculdade Nacional de Direito, da UFRJ, a Universidade Federal do Rio de Janeiro. No ano seguinte, 2017, passei no Exame Nacional da OAB, tendo então recebido o título de "advogado", que também é, pela legislação do país, um título de doutor (ref-pedro-ii).
 
@@ -25,92 +30,11 @@ Dito isso, vale uma precaução. Entre os bolsomínions do grupo maior, existe  
 
 Bem, após esta curta digressão sobre os bolsomínions, voltemos a 2016, momento em que, como dizíamos, uma armação contra o ex-presidente Lula fazia seu ponto mais forte.
 
-Numa defesa jurídica, seja uma contestação em um processo civil ou uma defesa em um processo penal, as teses de defesa podem ser várias e elas devem ser ordenadas tal que as melhores fiquem na frete e as piores ao final.  Não há limite para o número de argumentos, mas o defensor deve realizar um bom ordenamento, pois ele é parte da estratégia de defesa.
 
-Na defesa do ex-presidente Lula no caso do Triplex, foi dada uma tese de defesa, entre as várias dadas, que, para mim, coincidia com o exercício mental que eu tinha feito anteriormente, por ser aluno do curso de Direito.
+## O Judiciário, Nosso Último Recurso, Como Um Alto Risco
 
-Peço ao leitor e à leitora que não possua formação jurídica, que não abandone o livro neste momento, pois o tese que apresentarei a seguir é bem simples de ser apreciada. Vamos a ela.
+No próximo capítulo, apresentaremos, além da tese da inexistência de fatos para subsumir à norma acima mencionada, uma das teses da defesa ex-presidente, argumentada na formulação  do autor. Até lá, é necessário refletirmos sobre o desmoronamento de toda a estrutura republicana se o Judiciário, nosso último recurso em um mundo civilizado, trair a própria Justiça, agindo com arbitrariedade contra aqueles que os "milicianos da toga", por assim chamá-los, escolherem.
 
-A tese começa assim:
+A vida humana é, de certo, rodeada por incertezas e riscos, porém, as estruturas republicanas almejam à própria existência justamente por mitigar os riscos da existência  humana, principalmente quando propõe, para evitar a "justiça com as próprias mãos", a existência de um Judiciário possuidor da prorrogativa e da legitimidade para dirimir as questões que devem ser levadas às instâncias do Poder Judiciário.
 
-	1) o Direito é uno;
-	
-O Direito ser uno significa que partes do Direito não podem se desconsiderar. Por exemplo, o Direito Penal não pode ignorar o Direito Civil e, por extensão, qualquer subárea do Direito não pode ser incoerente com uma outra subárea.
-
-O próximo passo da tese é:
-
-	2) o Direito Penal não pode ignorar o Direito Civil;
-
-Na realidade, o passo 2) é um mero corolário do passo 1), que dizia que o Direito tem que uno e, em decorrência, o o Direito Penal não pode ignorar o Direito Civil.
-
-	3) Os Direitos Reais de são um sub-sub-área do Direito, sendo esses uma subárea do Direito Civil, logo, pelos passos 1) e 2) acima, são uno com o Direito;
-	
-	Para um Direito ser Real, ele necessita de duas condicionantes, quais sejam:
-	
-	3-1) ser um direito erga-omnis, ou seja, válido em relação a todos;
-	3-2) possuir o direito de sequela, ou seja, se o direito for tomado daquele que o possui, este tem o direito de ir à Justiça reivindicá-lo;
-	
-	4) entre os Direitos Reais, o mais notável deles é o Direito de Propriedade. O Direito de Propriedade, por ser Direito Real, possui as duas condicionantes supracitadas. Vejamo-las como seriam:
-	
-	4-1) a caráter erga-omnis do Direito de Propriedade, para bens imóveis, é resolvido com o instutito de registro que, no Brasil, é apelidado de RGI;
-	4-2) em relação ao direito de sequela, o possuidor da propriedade tem o direito de pleitear ações judiciais para reaver o bem, caso lhe seja injustamente tomado.
-	
-	5) assim, o triplex, pelas normas do Direito de Propriedade, que é um Direito Real, que é um Direito Civil que, por fim, é uno com o Direito, tem, pela primeira condicionante supracitada, um registro de proprietário;
-
-Aqui é necesssário pausarmos para considerar um detalhe importante que existe no mundo moderno em relação ao direito penal.  O Direito Penal, que existe para proteger bens jurídicos importantes, como a Vida, a honra, a propriedade etc., considera que pode haver um proprietário de direito (aquele que detém o registro) e um proprietário de fato, aquele que não está registrado.  A ideia é semelhante à do termo "laranja", alguém que é, nesta acepção, usado para permitir ilícitos de outrem.
-
-Isto é importante, pois a tese delineada acima até seu item nº 5 fracassa contra este problema daquilo que é "de Direito" contra a aquilo que é "de fato".  Porém, há um desempate que virá abaixo e este retira em definitivo esse detalhe importante do direito penal, deixando às claras a questão da unicidade do Direito acima portada.
-
-	6) embora, como dito acima, que exista a possibilidade haver um "proprietário de fato", que não é a mesma pessoa do registro, havia, no caso do Triplex, um segundo Direito Real em jogo, a saber, havia uma hipoteca em nome do "proprietário de Direito" e, esta, destrói por completo a consideração de existência de um "proprietário de fato";
-
-Antes de passarmos ao sétimo ponto da tese jurídica, cabe uma pequena lembrança em relação à hipoteca. A hipoteca é, assim como a propriedade, também um direito real, ou seja, ela tem efeito erga-omnis e direito de sequela, que é, como sabemos, ir atrás e recuperar o bem caso tenha sido tomado injustamente. A hipoteca, de uma geral prática, ocorre quando o proprietário pede um dinheiro emprestado a um banco e o imóvel entra como garantia a esse empréstimo, daí o termo "direito real de garantia".
-
-Após esta curta explanação sobre a hipoteca, que coincidemente reforça nossa tese jurídica, passemos agora sétimo ponto, que é um ponto de conclusão:
-
-	7) dados os fatos e o conhecimento jurídico acima, o Triplex não poderia ter sido recebido pelo ex-presidente Lula, seja por propina ou qualquer outra intenção, porque, além de ele não ser o "proprietário de Direito" (ou seja, aquele que possui o registro), o proprietário sob registro havia realizado uma hipoteca do imóvel junto a um banco público, desfazendo qualquer possível tese de que ex-presidente poderia tê-lo recebido na qualidade de "proprietário de fato". (Este detalhe conclusivo ainda receberá mais reforço adiante.)
-
-Pois então, a tese jurídica tecida acima é um indicador de que uma armação -- no sentido conspiratória -- foi traçada contra o ex-presidente. Não obstante, é necessário explicar por que a existência da hipoteca desfaz a presunção de haver, na transação do imóvel em tela, um "proprietário de fato".
-
-Este é, para nós, de fato, o ponto mais importante que o Direito Penal, por ser uno aos demais ramos do Direito, não poderia -- e não pode -- desconsiderar.
-
-Quando falamos sobre Direitos Reais acima, dissemos que são direitos tidos quando duas condições são realizadas, a saber, o direito existe em relação a todos (erga ommis) e o direito é passível de recuperação, caso tenha sido injustamente tomado.  Pois bem, o assunto dos Direito, assim posto, está apenas parcialmente posto. Neste momento, abaixo, teremos a chance de completá-lo.
-
-Os Direito Reais, além de possuir as duas propriedades já frisadas acima, possuem, ainda, quatro características genéricas, sendo a quarta, como veremos, relativizável.  Essas quatro características genéricas são as seguintes:
-
-1) o direito de alienação;
-2) o direito de uso;
-3) o direito de gozo ou usufruto;
-4) o direito de destruição do bem (este, como pré-anunciamos, relativizável).
-
-Todos os direitos reais possuem, pelo menos, as três primeiras características genéricas. A quarta, a destruição do bem, é relativa conforme o caso concreto.
-
-Por exemplo, um apartamento, que é um bem sob direito real de propriedade, não pode ser, genericamente em tese, destruído. É visualizável que a unidade a ser destruída, no caso de ocorrer, por exemplo, uma demolição, é o prédio que o engloba. Logo, um apartamento não possui a quarta característica supracitada.
-
-Ato contínuo, vejamos, como um exemplo, como essas características se portam ao direito real de propriedade no caso de um apartamento:
-
-1) para o direito de alienação, no caso de um apartamento, temos o "direito de venda";
-2) para o direito de uso, o "direito de moradia";
-3) para o direito de gozo ou usufruto, o "alugar" o bem;
-
-4) como vimos, não há o direito de destruição para um apartamento, genericamente o imaginando.
-
-Com este complemento, agora, o quadro da defesa está completo: não só o Direito Real de hipoteca anula a tese da denúncia de que o ex-presidente Lula teria recibido o imóvel (como proprina) sendo o "proprietário de fato", dado que o "proprietário de direito" exerce dois subdireitos com a hipoteca, a saber, concomitantemente ele usa e usufrui do bem, como, sob a mesma visão das características genéricas dos Direitos Reais, o ex-presidente não exerceu nenhuma delas, quais sejam:
-
-1) o ex-presidente não exerceu o "direito de alienação", ou seja, ele não vendeu o imóvel e não recebeu por tal;
-
-2) o ex-presidente não exerceu o "direito de uso", ou seja, ele não morou no imóvel (é uma piada, de mal gosto, dizer que uma visita comercial para visitar um imóvel é um uso de direito real do imóvel);
-
-3) o ex-presidente não exerceu o "direito de gozo ou usufruto", ou seja, ele não alugou o imóvel e não recebeu por tal.
-
-Este complemento da tese lacra em definitivo que o ex-presidente não recebeu o imóvel, dado supostamente como propina e, em extensão, nem sequer recebeu o imóvel a qualquer pretexto, pois o imóvel não é, como vimos, dele.
-
-Reparemos, todos nós, nós não sabemos se o ex-presidente recebeu ou não propina, caso a tenha recebido, por tal ou qual atos ou fatos, o que, por outro lado, podemos afirmar, é que o ex-presidente, dentro de nosso ordenamento jurídico -- pois, tese central, o Direito é uno -- não recebeu um triplex, decorrência lógica de que este triplex não lhe pertence.
-
-Há um detalhe aqui que gostaríamos de ressaltar.  Conforme conversamos com pessoas de diferentes opiniões, incluindo operadores do Direito, alguns diziam algo do tipo: ah, não é possível que ele não tenha recebido, tá na cara, só pode ser etc.  Infelizmente, ouvimos essa argumentação até de advogados formados e militantes, o que, para nós, é um problema grave de um entendimento jurídico fulcral, pois está no cerne do Direito: o Direito não pode ser não-uno.
-
-Ainda nas conversas com pessoas de diferentes opiniões, chegamos a ouvir algo do tipo: ah, você não entendeu, ele está esperando para receber o imóvel mais tarde... Bem, pode até ser isto possível, mas, nesse caso, teria sido uma propina?  Eis a questão.  Alcançaria e ultrapassaria um momento futuro em que o próprio contrato superfaturado nem mais estaria vigente.  No mais, é como nos mostra o filme Minority Report, que explorava uma questão de ficção científica na qual policiais iam atrás de criminosos que ainda não tinham cometido os crimes e que, no imbróglio da trama, guardava uma outra armação por de trás.
-
-Também não cabe aqui um exercício para o futuro, a saber, ele ainda receberá o imóvel no futuro...
-
-
-
+Este talvez seja um dos maiores alertas às gerações futuras que este livro pode indicar, ou seja, o Judiciário, se cair em descrédito, se os juízes se corromperem, se ele próprio Judiciário se tornar um miliciano bandido, a civilização inteira se desmoronará como um castelo de areia, levando todos a um estado de barbárie e selvageria, retornando a sistemas imemoriais, nos quais a lei é aquela do mais forte e todos estão contra todos ((ref-hoblev11)).
