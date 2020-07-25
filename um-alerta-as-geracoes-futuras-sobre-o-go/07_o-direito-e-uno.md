@@ -1,12 +1,13 @@
-# 4  O Engodo do Triplex II
+# 7  O Direito É Uno
 
-Numa defesa jurídica, seja uma contestação em um processo civil ou uma defesa em um processo penal, as teses de defesa podem ser várias e elas devem ser ordenadas tal que as melhores fiquem na frete e as piores ao final.  Não há limite para o número de argumentos, mas o defensor deve realizar um bom ordenamento, pois ele é parte da estratégia de defesa.
+
+Este Capítulo é a exposição de uma das mais importantes, entre várias, das teses de defesa contra a acusação de que o ex-presidente Lula teria recebido um imóvel como propina (corrupção passiva), o Triplex. Este Capítulo, também, será o mais técnico, em comparação aos demais, em relação ao Direito e, se o leitor ou a leitora assim o desejar, poderá, se considerar o tema um pouco mais puxado, pular adiante para o próximo Capítulo e, chegando ao final do livro, retornar aqui para um leitura com mais calma, se assim o desejar.
+
+Cabe também reforçar que o Direito permeia o mundo político e, no caso do Triplex, as consequências ajudaram não só na ascenção de Jair Bolsonaro, mas, na rolagem de tudo, na ascenção de Sérgio Moro que, conforme vimos, teve uma atuação reacionária no Ministro da Justiça e da Segurança Pública, saindo, finalmente, quando "sua parte do jogo" estaria comprometida com a ingerência de Bolsonaro na Polícia Federal ((ref-reiljt13)), caso que será melhor explorado mais adiante, no livro.
 
 Na defesa do ex-presidente Lula no caso do Triplex, foi dada uma tese de defesa, entre as várias dadas, que, para mim, coincidia com o exercício mental que eu tinha feito anteriormente, por ser aluno do curso de Direito.
 
-Peço ao leitor e à leitora que não possua formação jurídica, que não abandone o livro neste momento, pois o tese que apresentarei a seguir é bem simples de ser apreciada. Vamos a ela.
-
-A tese começa assim:
+A tese de defesa acima levantada começa assim:
 
 	1) o Direito é uno;
 	

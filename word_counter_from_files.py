@@ -28,13 +28,17 @@ def read_all_chapters():
   mds = sorted(mds)
   nOfChapters = len(mds)
   proj_words_per_chapter = 90000//nOfChapters
+  missing_total = 0; words_total = 0
   for md in mds:
     md_abspath = os.path.join(book_abspath, md)
     text = open(md_abspath, encoding='utf8').read()
     n_words = calc_words(text)
+    words_total += n_words
     missing_yet = proj_words_per_chapter - n_words
+    missing_total += missing_yet
     missing_yet_str = str(missing_yet).zfill(4)
     print(str(n_words).zfill(4), missing_yet_str, md)
+  print ('miss total', missing_total, 'total', words_total)
 
 def process():
   read_all_chapters()

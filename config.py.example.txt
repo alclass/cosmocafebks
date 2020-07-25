@@ -1,0 +1,41 @@
+#!/usr/bin/env python3
+'''
+'''
+import pathlib
+
+# Section 1 DB parametes:
+# Obs:
+#   1) do not add this config.py to git or any other vs;
+#   2) change the db-parameters when copying this to config.py.example.txt
+# =========================================================================
+
+THIS_DATABASE = 'mysql'
+DATABASE_DICT = {
+  'mysql' : {
+    'ADDRESS'     : '<substitute-it-with-machine-address>',
+    'PORT'        : '<substitute-it-with-portsnumber>',
+    'USER'        : '<substitute-it-with-username>',
+    'PASSWORD'    : '<substitute-it-with-userspassword>',
+    'DATABASENAME': '<substitute-it-with-dbname>',
+  }
+}
+
+# Section 2 Path & folders parametes
+# ===================================
+
+def get_approot_abspath():
+  approot_abspath = pathlib.Path(__file__).parent # .absolute()
+  return approot_abspath
+
+# adhoc_test
+def adhoc_test():
+  approot_abspath = get_approot_abspath()
+  print ('approot_abspath is [', approot_abspath, ']')
+  print ('Database Engime is [', THIS_DATABASE, '] and parameters are:')
+  print (DATABASE_DICT[THIS_DATABASE])
+
+def process():
+  adhoc_test()
+
+if __name__ == "__main__":
+  process()

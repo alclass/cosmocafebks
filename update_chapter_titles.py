@@ -7,9 +7,9 @@ import pyapp.models.genmodelsmod as gmodels
 from pyapp.models.genmodelsmod import ChapterSA
 from collections import namedtuple
 from prettytable import PrettyTable
-import glob, os, pathlib, json
-
+import os, pathlib
 from slugify import slugify
+from pyapp.fs.numberpkg import numberfunctions as nfs
 
 number_n_title_maker = namedtuple('NumberNTitle', 'n_chapter title slug')
 
@@ -72,14 +72,12 @@ def make_slug(phrase):
   slug = slug.lstrip('-').rstrip('-')
   return slug
 
-def startswith_a_number(fn):
-  try:
-    _ = int(fn.split('_')[0])
-    return True
-  except ValueError:
-    pass
-  return False
-
+def startswith_a_number_w_optional_letter(fn):
+  startchunk = fn.split('_')[0]
+  retval = nfs.consume_left_side_int_number_w_optional_having_comma_or_point(startchunk)
+  if retval is None:
+    return False
+  return True
 
 def get_title_n_nchapter_from_first_line(entry, books_abspath):
   entry_abspath = os.path.join(books_abspath, entry)
@@ -92,8 +90,9 @@ def get_title_n_nchapter_from_first_line(entry, books_abspath):
   title = None; nchapter = None
   pp = firstline.split(' ')
   try:
-    nchapter = int(pp[0])
-  except ValueError:
+    word = pp[0] # the first element is guaranteed
+    nchapter = nfs.consume_left_side_int_number_w_optional_having_comma_or_point(word) # int(pp[0])
+  except ValueError: # TO-DO: improve this piece, no ValueError is raised from consume()
     pass
   title = ' '.join(pp[1:])
   title = title.strip(' \r\n')
@@ -139,7 +138,7 @@ def correct_nchapter_in_first_line(entry, books_abspath, newnumber):
   if len(lines) > 1:
     newlines +=  lines[1:]
   fp = open(entry_abspath, 'w', encoding='utf8')
-  text = '\n'.join(newlines)
+  text = ''.join(newlines)
   fp.write(text)
   fp.close()
   return True
@@ -163,11 +162,12 @@ def write_to_db(nchapter, title, book_id=1):
   session = sa_conn.Session()
   chapter = session.query(ChapterSA).\
     filter(ChapterSA.chapter_n==nchapter).\
-    filter(ChapterSA.book_id==1).\
+    filter(ChapterSA.book_id==book_id).\
     first()
   doCommit = False
   if chapter is None:
     chapter = ChapterSA()
+    chapter.book_id = book_id
     session.add(chapter)
     doCommit = True
   if chapter.title != title:
@@ -193,7 +193,7 @@ books_abspath = os.path.join(apps_root_abspath, books_slug)
 def read_mdfiles_in_order():
   entries = os.listdir(books_abspath)
   entries = list(filter(lambda fn : fn.endswith('.md'), entries))
-  entries = list(filter(lambda fn : startswith_a_number(fn), entries))
+  entries = list(filter(lambda fn : startswith_a_number_w_optional_letter(fn), entries))
   entries = sorted(entries)
   seq = 0; titles_n_nchapters = []
   for entry in entries:
@@ -202,13 +202,12 @@ def read_mdfiles_in_order():
     if nchapter != seq:
       retbool = correct_nchapter_in_first_line(entry, books_abspath, seq)
       print('new', seq, 'old', nchapter, 'Chapter number correction', retbool)
-    title_n_nchapter_pair = (title, nchapter)
+    title_n_nchapter_pair = (title, seq) # nchapter
     titles_n_nchapters.append(title_n_nchapter_pair)
     slug = slugify(title)
     retbool = rename_filename_if_needed(entry, books_abspath, seq, slug)
     line = str(retbool) + ' rename_filename_if_needed(%s, %d, %s)' % (entry, seq, slug)
     print (line)
-
 
   pt = PrettyTable()
   pt.field_names = ['seq', 'Chap N', 'slug', 'Title']

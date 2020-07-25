@@ -1,55 +1,27 @@
-# 19  Terra Arrasada
-
-
-
-
+# 22  Terra Arrasada
 
 ## Um País em Frangalhos
 
-
-
 Durante a Lava Jato, grande parte da classe média esclarecida declarou voto em Bolsonaro, sabendo -- muito claramente -- que ele elogiou um torturador, dois anos antes, ao declarar seu voto para o impeachment contra Dilma Roussef. Em vários momentos desse livro, argumentamos em direção a entender que aquele aceita essa tipo de discurso, torna-se convivente, cúmplice e copartícipe com a ação promovida.
-
-
 
 Além disso, parte dessa massa de classe média argumentava, com certa fúria, que "esses caras" -- em relação ao PT e às esquerdas -- roubaram o país e destruíram a economia, a indústria e as fontes de "riqueza" do país. Parte dessa parte da classe média, como vimos em outros momentos neste livro, carrega algum tipo de reacionarismo e, dessa forma, o relatado acima é um "café pequeno" para ela. Contudo, falta saber sobre a parte menos reacionária, perguntar-lhe como se sente sabendo que o roubo ao qual se referia -- ao PT e às esquerdas -- agora, com os fatos consumados, é muito muito mas muito menor do que o roubo que passou a existir, após a entrada de Bolsonaro, em escalas muito maiores ((ref-folcor11)) ((ref-bdfcor11)) ((ref-oglcor11)) ((ref-uolcor11)) ((ref-blocor11)).
 
-
-
 Esses bolsomínions, de fato um tipo de bolsomínion, não tinha a menor noção de tão estavam enganados, de tão teriam caído num engono, um conto vigarista.
-
-
 
 A Lava Jato hoje, no momento em que essas linhas são escritas, está a ponto de responsabilizar Deltan Delagnol de ter passado a perna em um juiz federal que permitiu que deputados federais fossem grampeados em escuta eletrônica, sem exatamente saber que as pessoas que estavam na lista entregue eram deputados federais. Os dois nomes que chamaram a atenção no escrutínio dos documentos foram Rodrigo Felinto e David ((ref-reilvj13)). Ocorre que Rodrigo Felinto era Rodrigo Felinto Maia, conhecido publicamente com seu primeiro e último nomes, Rodrigo Maia; o mesmo se aplicando a David Alcolumbre.  Deltan Dalognol cometeu um ato de má fé contra o próprio juiz que alegou não ter percebido, ou seja, o juiz declara ter sido iludibriado, dado que um juiz federal não pode autorisar um escuta de investigação sobre deputados federais, que possuem foro privilegiado no STJ.
 
-
-
 Um conhecido meu, que trabalhava para a Petrobras, chegou a dizer que odiova as pessoas que tinham tentado destruir a empresa do "coração dele", no qual trabalhava, sem perceber que, ao dar seu voto a Bolsonaro e a ter se transformado em bolsomínion, de novo, sabendo claramente que o recipiente do voto havia tecido um elogio a um torturador no momento de declarar seu voto para o impeachment contra Dilma Roussef, a destruição da empresa do coração dele iria, então, começar.
-
-
 
 Para buscarmos o ponto de equilíbrio, há que se reconhecer que a Petrobras sempre foi um alvo dos espertalhões do governo, que sempre tentavam levar a empresa a assinar contratos superfaturados e, em outras tentativas, ganhar assentos de executivos na empresa.  Por falar em assentos executivos na empresa, cabe lembrar que os níveis gerenciais internos da Petrobras foram blindados e protegidos durante os governos do PT, foram também protegidos no governo FHC, e também no governo Temer, tomado por um golpe branco, como mostramos anteriormente.  Nessa seara em particular, a de proteção aos cargos gerenciais internos da Petrobras, quando Bolsonaro entrou na presidência, tendo fartamente prometido e prometido que não faria toma-lá-dá-cá nem indicações políticas nas estatais, de imediata retirou gerentes executivos de carreira que faziam um ótimo trabalho e os substituiu por pessoas do grupo de Paulo Guedes, os "chicagos boys".
 
-
-
 A Petrobras também iniciou um processo de fatiamente, ou seja, ativos importantes da empresa começaram a ver vendidos, tornando a empresa menor, mas também tornando a empresa mais fulnerável, pois, no arriscado mercado do Petróleo, a exploração e produção pode compensar perdas no refino e vice-versa, ou seja, o refino pode, a depender das variáveis em jogo, compensar perdas da exploração e produção.  O nome técnico dessa crós-proteção é, do Inglês, hedge, que é mais ou menos uma proteção intercruzada de ativos, quando a ideia é a de que se um for mal, um outro, com outras características, pode ir bem, evitando a bancarrota do negócio como um todo: um deles compensando, provisionando ou subvencionando um outro deles, com o objetivo de o todo ter um ganho médio.
-
-
 
 A Lava Jato, até mesmo em seu lado que seria positivo, o de ter prendido corruptores ativos e passivos, até nesse lado, fez mal, pois esses corruptores, em grande parte, fizeram um acordo de delação premiado, muitas vezes sem eficácia alguma -- até porque pelas reportagens do Intercept Brasil, os delatores teriam que seguir um script para terem suas delações aceitas ((ref-intlav11)) ((ref-intlav12)) -- e ficaram um tempo irrisório e mínimo na prisão.  Muitos desses corruptores ficaram cerca de um ano na cadeia e saíram para gastar grande parte do dinheiro desviado.
 
-
-
 Talvez não haja ponto mais revoltante da Lava Jato que o momento em que o ex-presidente Lula foi condenado por ter recebido um apartamento triplex que simplesmente não era dele e, sob a lógica mais simples que até um símeo saberia seguir, em decorrência, não poderia ter recebido tal imóvel.  Lembro-me que pessoas que eram minhas amigas e que, com o bolsonarismo tomando-lhes a alma, deixando de ser minhas amigas, comemorando a condenação do ex-presidente. Ainda antes de haver a ruptura da amizade, eu lhes perguntava se valia a pena condenar alguém por um crime não cometido, se valia a pena bater palmas para tais atos e se, ao final, não seriam elas mesmas a próxima vítima de um mundo arbitrário, em que o juiz não só o julgará ao arrepio da lei, mas julgará por razões tão arbitrárias quanto, por exemplo, não fui com a cara de fulano, logo, condená-lo-ei.  É desnecessário dizer, não há vida nesse tipo de mundo, pois, no limite, a guerra eclodirá e a morte virá.  Este é um ponto de alerta às gerações futuras, pois este é como a máxima de Sócrates de que a vida não examinada não vale a pena, da mesma forma, a vida trambiqueira também não vale a pena.
-
-
 
 O país destroçado por uma sequência de golpes, golpe no sentido incidental, uma pancada ali, outra aqui, que, infelizmente, foram se somando e juntando forças para um reacionarismo que não é capaz de dar nada, produzir nada, administrar nada, só capaz de causar mais perdas e danos e destruição, justamente em cima das perdas e danos e destruição que já estavam ocorrendo. O efeito é devastador: é a terra arrasada. É o país em frangalhos.
 
-
-
 O destruição do país, não obstante, não é só material, em suas riquezas e sua capacidade de produzir, gerar e dividir riquezas, ela também é moral e espiritual.  Espiritual, aqui, em seu sentido latu, que o adjetivo mental com o adjetivo espiritual em seu sentido de alma, de força motriz, de sopro de vida.  O engodo e a enganação da Lava Jato não só trouxeram consequência destruidoras para a economia do país, ela desnudou um sistema judiciária extremamente arriscado, justamente o poder da república que funciona como último recurso para o cidadão -- e que também deveria ser o farol para que ele não promovesse a justiça com suas próprias mãos, num mundo em que o mais forte imporia sua força ao mais fraco.
-
-
 
 A Lavo Jato colocou tudo isso em xeque e é um xeque que no passo sentido já era um xeque-mate.  Não como haver uma república, palavras que remete ao latim res publica, ou seja, a coisa pública, sem um judiciário. Não há como haver um judiciário que permita o que aconteceu na Lava Jato.  Sérgio Moro, sobre quem discorremos várias vezes ao longo deste livro, não pode sair impune deste imbróglio e, ponto ainda mais fulcral, os desembargadores do TRF-4 têm que ser corresponsabilizados também, a ser não que provem que foram enganados, o que, pela dimensão e tamanho do processo penal do Triplex, não acredito que consegam.
