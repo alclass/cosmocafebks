@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''
+"""
 https://stackoverflow.com/questions/10059345/sqlalchemy-unique-across-multiple-columns
 
 # version1: table definition
@@ -22,15 +22,17 @@ class Location(Base):
     location_code = Column(Unicode(10), nullable=False)
     __table_args__ = (UniqueConstraint('customer_id', 'location_code', name='_customer_location_uc'),
                      )
-'''
-import datetime, os # for adhoc test
+"""
+import datetime
+import os  # for adhoc test
 from sqlalchemy.ext.declarative import declarative_base
-Base = declarative_base()
-from sqlalchemy import Column, Boolean, Integer, String, Date, TIMESTAMP, ForeignKey, Text # DateTime,
-from sqlalchemy.types import BINARY
-from sqlalchemy.orm import relationship, backref
+from sqlalchemy import Column, Boolean, Integer, String, Date, TIMESTAMP, ForeignKey, Text  # DateTime,
+from sqlalchemy.orm import relationship  # , backref
 from sqlalchemy.sql import func
-from sqlalchemy.sql.expression import asc, desc
+from sqlalchemy.sql.expression import asc  # , desc
+
+Base = declarative_base()
+
 
 class BookSA(Base):
 
@@ -43,20 +45,21 @@ class BookSA(Base):
   # category_id = Column(Integer, ForeignKey('categories.id'), nullable=True)
   obs = Column(Text, nullable=True)
 
-  chapters = relationship('ChapterSA', backref='book', lazy='dynamic')
+  chapters = relationship('ChapterSA', backref='book', lazy='dynamic', order_by=(asc('chapter_n')))
   measuresondates = relationship('DatedMeasureSA', backref='book', lazy='dynamic')
 
-  created_at = Column(TIMESTAMP, server_default=func.now()) #, nullable=False, server_default=text('0'))
+  created_at = Column(TIMESTAMP, server_default=func.now())  # , nullable=False, server_default=text('0'))
   updated_at = Column(TIMESTAMP, nullable=True)
 
   def __repr__(self):
     title = self.title if len(self.title) < 50 else self.title[:50]
     return '<Book(id=%s, title="%s")>' % (str(self.id), title)
 
+
 class DatedMeasureSA(Base):
-  '''
+  """
   ALTER TABLE `datedmeasures` ADD UNIQUE `bookid_n_measuredate_uniq`(`measuredate`, `book_id`);
-  '''
+  """
 
   __tablename__ = 'datedmeasures'
 
@@ -66,16 +69,17 @@ class DatedMeasureSA(Base):
   json_chapters_words = Column(String, nullable=True)
   book_id = Column(Integer, ForeignKey('books.id'))
 
-  created_at = Column(TIMESTAMP, server_default=func.now()) #, nullable=False, server_default=text('0'))
+  created_at = Column(TIMESTAMP, server_default=func.now())  # nullable=False, server_default=text('0'))
   updated_at = Column(TIMESTAMP, nullable=True)
 
   def __repr__(self):
     return '<DatedMeasure(id=%s, measuredate=%s n_words=%d)>' % (str(self.id), str(self.measuredate), self.n_words)
 
+
 class ChapterSA(Base):
-  '''
+  """
   ALTER TABLE `chapters` ADD UNIQUE `bookid_n_chaptern_uniq`(`chapter_n`, `book_id`);
-  '''
+  """
 
   __tablename__ = 'chapters'
 
@@ -87,7 +91,7 @@ class ChapterSA(Base):
   obs = Column(Text, nullable=True)
   book_id = Column(Integer, ForeignKey('books.id'))
 
-  created_at = Column(TIMESTAMP, server_default=func.now()) #, nullable=False, server_default=text('0'))
+  created_at = Column(TIMESTAMP, server_default=func.now())  # nullable=False, server_default=text('0'))
   updated_at = Column(TIMESTAMP, nullable=True)
 
   @property
@@ -100,14 +104,13 @@ class ChapterSA(Base):
 
   def __repr__(self):
     title = self.title if len(self.title) < 50 else self.title[:50]
-    return '<Chapter(id=%s, title="%s")>' % (str(self.id), title)
-
+    return '<Chapter(chapter=%d, title="%s")>' % (self.chapter_n, title)
 
 
 class DocRefSA(Base):
-  '''
+  """
   ALTER TABLE `chapters` ADD UNIQUE `bookid_n_chaptern_uniq`(`chapter_n`, `book_id`);
-  '''
+  """
 
   __tablename__ = 'docrefs'
 
@@ -124,7 +127,7 @@ class DocRefSA(Base):
   url = Column(String(255), nullable=True)
   obs = Column(Text, nullable=True)
 
-  created_at = Column(TIMESTAMP, server_default=func.now()) #, nullable=False, server_default=text('0'))
+  created_at = Column(TIMESTAMP, server_default=func.now())  # nullable=False, server_default=text('0'))
   updated_at = Column(TIMESTAMP, nullable=True)
 
   def get_refsurname_or_other(self):
@@ -137,29 +140,33 @@ class DocRefSA(Base):
       return self.origins
     if self.program:
       return self.program
-    return 'ref' # improbable to get here but there it goes, 'ref' if it ever happens (due to an incomplete record on db) is okay
+    # improbable to get here but there it goes, 'ref' if it ever happens (due to an incomplete record on db) is okay
+    return 'ref'
 
   def __repr__(self):
     title = self.title if len(self.title) < 50 else self.title[:50]
     # authors = self.title if len(self.authors) < 50 else self.authors[:50]
-    return '<Ref(id=%s, title="%s")>' % (str(self.id), title) # authors,
+    return '<Ref(id=%s, title="%s")>' % (str(self.id), title)  # authors,
+
 
 def adhoc_test():
   book = BookSA()
   book.title = 'Title Test'
-  print (book)
-  measure =  DatedMeasureSA()
+  print(book)
+  measure = DatedMeasureSA()
   measure.measuredate = datetime.date.today()
   measure.n_words = 2500
   book.measuresondates.append(measure)
   print(measure)
-  chapter =  ChapterSA()
+  chapter = ChapterSA()
   chapter.title = 'Chapter Test'
   book.chapters.append(chapter)
   print(chapter)
 
+
 def process():
   adhoc_test()
+
 
 if __name__ == '__main__':
   process()

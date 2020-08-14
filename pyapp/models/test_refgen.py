@@ -4,7 +4,7 @@
 '''
 import os, pathlib, re
 import unittest
-from pyapp.models.genmodelsmod import DocRefSA
+from pyapp.models.modelsmod import DocRefSA
 import pyapp.models.refgenmod as refgm
 
 text1_before_interpol = '''

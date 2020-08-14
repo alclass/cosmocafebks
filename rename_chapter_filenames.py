@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 import os, pathlib
 from pyapp.models import sa_conn
-import pyapp.models.genmodelsmod as gmodels
-from pyapp.models.genmodelsmod import BookSA
+import pyapp.models.modelsmod as gmodels
+from pyapp.models.modelsmod import BookSA
 from prettytable import PrettyTable
 
 '''

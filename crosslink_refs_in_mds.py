@@ -3,7 +3,7 @@
 
 '''
 import os, pathlib, re
-from pyapp.models.genmodelsmod import DocRefSA
+from pyapp.models.modelsmod import DocRefSA
 from pyapp.models.sa_conn import Session
 
 def calc_words(text):

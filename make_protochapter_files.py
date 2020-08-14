@@ -4,7 +4,7 @@ import glob, os, pathlib, json
 
 '''
 from pyapp.models import sa_conn
-import pyapp.models.genmodelsmod as gmodels
+import pyapp.models.modelsmod as gmodels
 # from collections import namedtuple
 
 def fetch_all_chapters(): # session

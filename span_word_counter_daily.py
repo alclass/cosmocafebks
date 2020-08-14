@@ -3,7 +3,7 @@ import glob, os, pathlib, json, datetime
 import appdata as wrdcnt
 from pyapp.models.GoalMod import Goal
 import make_protochapter_files as makeproto
-import pyapp.models.genmodelsmod as gmodels
+import pyapp.models.modelsmod as gmodels
 from pyapp.models import sa_conn
 
 def run_goal():

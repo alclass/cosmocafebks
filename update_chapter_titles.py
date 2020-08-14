@@ -3,8 +3,8 @@
   update_chapter_titles.py
 '''
 from pyapp.models import sa_conn
-import pyapp.models.genmodelsmod as gmodels
-from pyapp.models.genmodelsmod import ChapterSA
+import pyapp.models.modelsmod as gmodels
+from pyapp.models.modelsmod import ChapterSA
 from collections import namedtuple
 from prettytable import PrettyTable
 import os, pathlib

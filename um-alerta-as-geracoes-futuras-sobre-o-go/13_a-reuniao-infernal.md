@@ -39,3 +39,13 @@ A Exposição de uma Caterva, Malta e ORCRIM dentro do Governo Federal
 ## A Exposição de uma Caterva, Malta e ORCRIM dentro do Governo Federal
 
 A Exposição de uma Caterva, Malta e ORCRIM dentro do Governo Federal
+
+
+6 crimes de bols na reunião do dia 22
+
+falsidade ideológica
+coação de processo
+advocacia administrativa
+prevaricação
+obstrução de justiça
+corrupção passiva

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import os, pathlib, re
 from pyapp.models.sa_conn import Session
-from pyapp.models.genmodelsmod import DocRefSA
+from pyapp.models.modelsmod import DocRefSA
 import config
 '''
 The main class in this module is EnclosedTokenReplacer.

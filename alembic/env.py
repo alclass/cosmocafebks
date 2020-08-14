@@ -18,9 +18,9 @@ fileConfig(config.config_file_name)
 # from myapp import mymodel
 # target_metadata = mymodel.Base.metadata
 # target_metadata = None
-from pyapp.models.genmodelsmod import BookSA
-from pyapp.models.genmodelsmod import ChapterSA
-from pyapp.models.genmodelsmod import DatedMeasureSA
+from pyapp.models.modelsmod import BookSA
+from pyapp.models.modelsmod import ChapterSA
+from pyapp.models.modelsmod import DatedMeasureSA
 target_metadata = [BookSA.metadata, ChapterSA.metadata, DatedMeasureSA.metadata]
 
 # other values from the config, defined by the needs of env.py,
