@@ -1,3 +1,23 @@
+04_profanando-o-templo-sacrossanto-do-direito
+
+A Revolução Francesa, em conjunto com a Revolução Industrial -- e a elas podem-se juntar as revoluções americana e inglesa do século 17 -- introduz à humanidade a forma de governo que é semelhante ao sistema presente, respeitando inovações e reformas que ocorrem ao longo do tempo e considerando diferenças regionais em todas em partes.
+
+A Revolução Francesa, olhando-a por diversos ângulos, é uma revolução muito interessante. Lembramos ao leitor que nosso objetivo maior é levantar um olhar sobre o que ocorreu no Brasil quando um golpe branco foi perpetrado contra a presidente Dilma Roussef em 2014/2015 (entre os meses do processo de impeachment no Senado, autorizado pela Câmara dos Deputados) e quando o ex-presidente Lula foi condenado e preso em 2016 por conta de um processo penal mentiroso e previamente armado; não obstante, há pontos de revolução francesa sobre os quais gostaríamos de traçar um paralelo com as questões mais atuais de nosso tempo.
+
+Em minha época de escolha, uma das causas e motivadores principais da Revolução Francesa era a fome do povo mais pobre, que, dentro do feodalsimo, eram os servos, os pequenos agricultores que não possuíam terras ou que possuíam terras pequenas mas tinham que pagar impostos e outras obrigações às elites da época: basicamente: os senhores feodais, os aristocratas e o clérico. Essa constatação da fome do povo pobre nas ruas é tão popularmente divulgada que a expressão "se não tem pão, vai de briochi" foi inserida ao contexto e parece sugerir que, na falta do pão, o povo irá atrás dos pães que os ricos -- que são ricos pelas regalias do sistema vigente -- possuem.
+
+Não obstante, essa é a parte popular da História. Se formos a fontes mais aprofundados -- a exemplo do historiador Eric Hobsbawn no livro sobre a tese da Revolução Dual -- a organização maior para a Revolução Francesa não vem do povo, vem da burguesia que, por sua vez, consegue instruir o povo para participar da Revolução.  A data oficial da Revolução Francesa, dia 14/07/1879, não é o dia "pontual" da Revolução. A revolução daquele momento foi construída por provavelmente uma década, talvez mais. O que ocorreu no dia 14 foi a tomada da bastilha, que era uma prisão que guardava armas. (Eu sempre achei esquisito essa história de haver armas dentro de uma prisão, mas a bastilha era uma prisão e o povo a invade para tomar as armas.)
+
+
+
+
+
+
+A fronteira que separa a Revolução Francesa do mundo feodal anterior é a possibilização e a realização de um mundo capitalista. Este mundo capitalista não significa que inexista comércio ou empreendimentos anteriores, embora as instituições financeiras de grande porte tenham surgido mas as estrutras que viabilizam o mundo atual de criação e destruição de capital e valor, 
+
+
+a-mentira-do-triplex-mentiras-dos-que-tinham-a-responsabilidade-de-conduzir-o-direito-sacrossanto
+
 # 4  O Engodo do Triplex I
 
 ## A Fraude da Condenação Penal do Triplex
